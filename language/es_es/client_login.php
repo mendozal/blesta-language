@@ -10,10 +10,10 @@
  */
 
 $lang['ClientLogin.!error.unknown_user'] = 'No se reconoce ese nombre de usuario o no se puede restablecer la contraseña.';
-$lang['ClientLogin.!error.unknown_email'] = 'No se reconoce esa dirección de correo electrónico o no se puede recuperar el nombre de usuario.';
+$lang['ClientLogin.!error.unknown_email'] = 'No se reconoce esa dirección de email o no se puede recuperar el nombre de usuario.';
 $lang['ClientLogin.!error.captcha.invalid'] = 'El captcha introducido no es válido. Por favor, inténtelo de nuevo.';
-$lang['ClientLogin.!success.reset_sent'] = 'Se ha enviado un correo electrónico de confirmación a la dirección registrada.';
-$lang['ClientLogin.!success.forgot_sent'] = 'Se ha enviado a su dirección de correo electrónico un mensaje con su nombre de usuario registrado.';
+$lang['ClientLogin.!success.reset_sent'] = 'Se ha enviado un email de confirmación a la dirección registrada.';
+$lang['ClientLogin.!success.forgot_sent'] = 'Se ha enviado a su dirección de email un mensaje con su nombre de usuario registrado.';
 $lang['ClientLogin.index.page_title'] = 'Iniciar sesión';
 $lang['ClientLogin.index.description'] = 'Inicie sesión para acceder al área de clientes.';
 $lang['ClientLogin.index.login_heading'] = 'Iniciar sesión';
@@ -43,8 +43,8 @@ $lang['ClientLogin.confirmreset.field_resetsubmit'] = 'Establecer contraseña';
 $lang['ClientLogin.confirmreset.link_login'] = 'Cancelar, Entrar';
 $lang['ClientLogin.forgot.page_title'] = 'Nombre de usuario olvidado';
 $lang['ClientLogin.forgot.reset_heading'] = 'Nombre de usuario olvidado';
-$lang['ClientLogin.forgot.description'] = 'Introduzca su dirección de correo electrónico para solicitar su nombre de usuario.';
-$lang['ClientLogin.forgot.field_email'] = 'Dirección de correo electrónico';
+$lang['ClientLogin.forgot.description'] = 'Introduzca su dirección de email para solicitar su nombre de usuario.';
+$lang['ClientLogin.forgot.field_email'] = 'Dirección de email';
 $lang['ClientLogin.forgot.field_forgotsubmit'] = 'Recuperar nombre de usuario';
 $lang['ClientLogin.forgot.link_login'] = 'Cancelar, Entrar';
 

@@ -17,5 +17,5 @@ $lang['Util.Tax.europe_tax.fields.enable_eu_vat'] = 'Activar la validación del 
 $lang['Util.Tax.europe_tax.fields.note_enable_eu_vat'] = 'Marque esta opción para activar la validación del número de IVA de la UE para esta empresa. Esto requiere la extensión PHP soap.';
 $lang['Util.Tax.europe_tax.fields.tax_exempt_eu_vat'] = 'Establecido automáticamente como exento de impuestos';
 $lang['Util.Tax.europe_tax.fields.note_tax_exempt_eu_vat'] = 'Establezca automáticamente un cliente como exento de impuestos si su número de IVA es válido y no procede de su domicilio fiscal.';
-$lang['Util.Tax.europe_tax.fields.tax_home_eu_vat'] = 'Inicio fiscal';
+$lang['Util.Tax.europe_tax.fields.tax_home_eu_vat'] = 'Domicilio fiscal';
 

@@ -171,7 +171,7 @@ $lang['AdminPackageOptions.logicsettings.field_submit'] = 'Enviar';
 $lang['AdminPackageOptions.!notice.package_option_actions'] = '¿Está seguro de que desea realizar esta acción masiva?';
 $lang['AdminPackageOptions.index.field_actionsubmit'] = 'Enviar';
 $lang['AdminPackageOptions.index.field_cancel'] = 'Cancelar';
-$lang['AdminPackageOptions.index.field_continue'] = 'Continúe en';
+$lang['AdminPackageOptions.index.field_continue'] = 'Continuar';
 $lang['AdminPackageOptions.index.action.delete_package_options'] = 'Borrar opciones de paquete';
 $lang['AdminPackageOptions.index.action.delete_package_groups'] = 'Borrar grupos de opciones';
 

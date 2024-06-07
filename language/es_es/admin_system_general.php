@@ -46,7 +46,7 @@ $lang['AdminSystemGeneral.geoip.boxtitle_geoip'] = 'GeoIP';
 $lang['AdminSystemGeneral.geoip.text_setup'] = 'GeoIP puede habilitarse aquí, proporcionando funcionalidad de servicios de localización GeoIP a Blesta. Habilitarlo permitirá que ciertas funcionalidades aprovechen los servicios de localización.';
 $lang['AdminSystemGeneral.geoip.text_geolite'] = 'GeoIP requiere la base de datos binaria GeoLite City, que puede descargarse desde su cuenta en <a target="_blank" href="%1$s">%1$s</a>. El archivo debe descomprimirse y subirse a:';
 $lang['AdminSystemGeneral.geoip.text_geolite_step_1'] = 'Regístrese para obtener una cuenta MaxMind';
-$lang['AdminSystemGeneral.geoip.text_geolite_step_2'] = 'Utiliza el correo electrónico de bienvenida para establecer tu contraseña';
+$lang['AdminSystemGeneral.geoip.text_geolite_step_2'] = 'Utiliza el email de bienvenida para establecer tu contraseña';
 $lang['AdminSystemGeneral.geoip.text_geolite_step_3'] = 'Acceda a su cuenta';
 $lang['AdminSystemGeneral.geoip.text_geolite_step_4'] = 'En "GeoIP2 / GeoLite2 > Descargar archivos" descarga el archivo binario GeoLite2-City';
 $lang['AdminSystemGeneral.geoip.text_geolite_step_5'] = 'Sube ese archivo a tu instalación de Blesta en la ruta indicada a continuación';

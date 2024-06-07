@@ -27,7 +27,7 @@ $lang['DirectAdmin.!error.direct_admin_username.format'] = 'El nombre de usuario
 $lang['DirectAdmin.!error.direct_admin_username.length'] = 'El nombre de usuario debe tener entre 4 y 8 caracteres.';
 $lang['DirectAdmin.!error.direct_admin_password.format'] = 'Asegúrese de que la contraseña contiene lo siguiente: Al menos 12 caracteres, al menos 1 carácter en mayúscula A-Z, al menos 1 carácter en minúscula a-z, al menos 1 número 0-9 y al menos 1 carácter especial del conjunto: !"#$%&\'()*+,-./:;<=>?@[]^_` {|}';
 $lang['DirectAdmin.!error.direct_admin_password.matches'] = 'La contraseña y la contraseña de confirmación no coinciden.';
-$lang['DirectAdmin.!error.direct_admin_email.format'] = 'Introduzca una dirección de correo electrónico válida.';
+$lang['DirectAdmin.!error.direct_admin_email.format'] = 'Introduzca una dirección de email válida.';
 $lang['DirectAdmin.!error.change_package.type'] = 'El módulo no permite cambiar entre paquetes de usuario y de revendedor.';
 $lang['DirectAdmin.name'] = 'DirectAdmin';
 $lang['DirectAdmin.description'] = 'DirectAdmin es un panel de control gráfico de alojamiento web diseñado para facilitar la administración de sitios web.';
@@ -43,7 +43,7 @@ $lang['DirectAdmin.server_groups.no_results'] = 'No hay grupos de servidores.';
 $lang['DirectAdmin.service_field.domain'] = 'Dominio';
 $lang['DirectAdmin.service_field.username'] = 'Nombre de usuario';
 $lang['DirectAdmin.service_field.password'] = 'Contraseña';
-$lang['DirectAdmin.service_field.email'] = 'Correo electrónico';
+$lang['DirectAdmin.service_field.email'] = 'Email';
 $lang['DirectAdmin.service_field.text_generate_password'] = 'Generar contraseña';
 $lang['DirectAdmin.tab_client_actions.change_password'] = 'Cambiar contraseña';
 $lang['DirectAdmin.tab_client_actions.field_direct_admin_password'] = 'Contraseña';

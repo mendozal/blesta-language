@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminCompanyEmails.templates.Phpids.email_alert_desc'] = 'Correo electrónico de alerta de detección de intrusiones PHPIDS, enviado a las direcciones configuradas en el plugin PHPIDS.';
+$lang['AdminCompanyEmails.templates.Phpids.email_alert_desc'] = 'Email de alerta de detección de intrusiones PHPIDS, enviado a las direcciones configuradas en el plugin PHPIDS.';
 $lang['AdminCompanyEmails.templates.Phpids.email_alert_name'] = 'Alerta de intrusión PHPIDS';
 

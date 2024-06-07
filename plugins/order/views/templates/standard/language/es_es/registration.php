@@ -9,5 +9,5 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Registration.signup.header_signup'] = 'Inscríbete';
+$lang['Registration.signup.header_signup'] = 'Regístrese';
 

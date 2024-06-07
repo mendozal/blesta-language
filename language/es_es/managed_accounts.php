@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ManagedAccounts.!error.client.exists'] = 'No hay ninguna cuenta asignada a la dirección de correo electrónico proporcionada.';
+$lang['ManagedAccounts.!error.client.exists'] = 'No hay ninguna cuenta asignada a la dirección de email proporcionada.';
 $lang['ManagedAccounts.!error.client_id.exists'] = 'ID de cliente no válido.';
 $lang['ManagedAccounts.!error.email.invitation'] = 'Ya se ha enviado una invitación a esta cuenta.';
 $lang['ManagedAccounts.!error.invitation_id.exists'] = 'ID de invitación no válido.';

@@ -10,6 +10,6 @@
  */
 
 $lang['QuotationDelivery.!error.libxml_required'] = 'Las extensiones libxml y simplexml son necesarias para la entrega de facturas.';
-$lang['QuotationDelivery.deliverinvoices.interfax_subject'] = 'Cita #%1$s';
-$lang['QuotationDelivery.deliverinvoices.postalmethods_description'] = 'Cita #%1$s';
+$lang['QuotationDelivery.deliverinvoices.interfax_subject'] = 'Presupuesto #%1$s';
+$lang['QuotationDelivery.deliverinvoices.postalmethods_description'] = 'Presupuesto #%1$s';
 

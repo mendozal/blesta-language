@@ -30,6 +30,6 @@ $lang['OrderTypeDomain.settings.text_term'] = 'Plazo y periodo mínimos';
 $lang['OrderTypeDomain.settings.heading_term'] = 'Plazo';
 $lang['OrderTypeDomain.settings.heading_period'] = 'Periodo';
 $lang['OrderTypeDomain.settings.heading_options'] = 'Opciones';
-$lang['Main.steps.step_1_description'] = 'Elija un dominio';
+$lang['Main.steps.step_1_description'] = 'Elegir un dominio';
 $lang['OrderTypeDomain.settings.field_search'] = 'Buscar TLD';
 

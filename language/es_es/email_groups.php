@@ -14,5 +14,5 @@ $lang['EmailGroups.!error.action.length'] = 'La longitud de la acción no puede 
 $lang['EmailGroups.!error.action.unique'] = 'Ya existe una acción con ese nombre.';
 $lang['EmailGroups.!error.type.format'] = 'Tipo no válido.';
 $lang['EmailGroups.!error.notice_type.valid'] = 'El tipo de notificación debe establecerse como bcc o to.';
-$lang['EmailGroups.!error.group_id.exists'] = 'ID de grupo de correo electrónico no válido.';
+$lang['EmailGroups.!error.group_id.exists'] = 'ID de grupo de email no válido.';
 

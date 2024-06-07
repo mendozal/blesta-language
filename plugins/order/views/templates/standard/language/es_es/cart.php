@@ -9,12 +9,12 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Cart.index.header_cart'] = 'Orden de revisión';
+$lang['Cart.index.header_cart'] = 'Revisar la orden';
 $lang['Cart.index.table_description'] = 'Descripción';
 $lang['Cart.index.table_term'] = 'Plazo';
 $lang['Cart.index.table_qty'] = 'Cantidad';
 $lang['Cart.index.table_price'] = 'Precio';
-$lang['Cart.index.checkout_btn'] = 'Pedido';
+$lang['Cart.index.checkout_btn'] = 'Finalizar';
 $lang['Cart.index.order_more_btn'] = 'Pedir más artículos';
 $lang['Cart.index.edit_item'] = 'Editar';
 $lang['Cart.index.remove_item'] = 'Eliminar';

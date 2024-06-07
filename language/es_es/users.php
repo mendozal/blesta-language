@@ -22,5 +22,5 @@ $lang['Users.!error.user_id.exists'] = 'ID de usuario no válida.';
 $lang['Users.!error.username.attempts'] = 'Se han detectado demasiados intentos de inicio de sesión fallidos.';
 $lang['Users.!error.username.company'] = 'No está autorizado a iniciar sesión en esta ubicación.';
 $lang['Users.!error.clients.exist'] = 'El usuario no puede ser eliminado porque hay al menos un cliente asignado al usuario.';
-$lang['Users.!error.recovery_email.format'] = 'Dirección de correo electrónico de recuperación no válida.';
+$lang['Users.!error.recovery_email.format'] = 'Dirección de email de recuperación no válida.';
 

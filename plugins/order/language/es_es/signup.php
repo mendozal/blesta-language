@@ -11,9 +11,9 @@
 
 $lang['Signup.!error.captcha.invalid'] = 'El captcha introducido no es válido. Por favor, inténtelo de nuevo.';
 $lang['Signup.!error.not_client_owner'] = 'Debe iniciar sesión como propietario del cliente para poder continuar.';
-$lang['Signup.!notice.force_email_usernames'] = 'Tu nombre de usuario será el mismo que tu dirección de correo electrónico.';
-$lang['Signup.!notice.email_verification'] = 'Se ha enviado un mensaje para verificar su dirección de correo electrónico. Por favor, complete la verificación lo antes posible.';
-$lang['Signup.index.field_taxid'] = 'Número de identificación fiscal/VATIN';
+$lang['Signup.!notice.force_email_usernames'] = 'Tu nombre de usuario será el mismo que tu dirección de email.';
+$lang['Signup.!notice.email_verification'] = 'Se ha enviado un mensaje para verificar su dirección de email. Por favor, complete la verificación lo antes posible.';
+$lang['Signup.index.field_taxid'] = 'RUC';
 $lang['Signup.index.field_firstname'] = 'Nombre';
 $lang['Signup.index.field_lastname'] = 'Apellido';
 $lang['Signup.index.field_company'] = 'Empresa/Org.';
@@ -26,8 +26,8 @@ $lang['Signup.index.field_country'] = 'País';
 $lang['Signup.index.field_title'] = 'Título';
 $lang['Signup.index.field_phone'] = 'Teléfono';
 $lang['Signup.index.field_fax'] = 'Fax';
-$lang['Signup.index.field_email'] = 'Correo electrónico';
-$lang['Signup.index.field_username_type_email'] = 'Utilizar el correo electrónico como nombre de usuario';
+$lang['Signup.index.field_email'] = 'Email';
+$lang['Signup.index.field_username_type_email'] = 'Utilizar el email como nombre de usuario';
 $lang['Signup.index.field_username_type_username'] = 'Especifique un nombre de usuario';
 $lang['Signup.index.field_action_continue'] = 'Continuar como %1$s %2$s';
 $lang['Signup.index.field_action_login'] = 'Iniciar sesión';
@@ -41,5 +41,5 @@ $lang['Signup.index.login_btn'] = 'Conectarse';
 $lang['Signup.index.continue_btn'] = 'Continuar con la compra';
 $lang['Signup.index.signup_btn'] = 'Crear una cuenta';
 $lang['Signup.!error.email.blacklist'] = 'Su pedido no puede ser procesado en este momento.';
-$lang['Signup.index.field_recovery_email'] = 'Correo electrónico de recuperación (opcional)';
+$lang['Signup.index.field_recovery_email'] = 'Email de recuperación (opcional)';
 

@@ -17,6 +17,6 @@ $lang['Widepay.!error.wallet_id.format'] = 'Por favor, introduzca un ID de carte
 $lang['Widepay.!error.wallet_token.format'] = 'Introduzca un token de API de monedero';
 $lang['Widepay.buildprocess.submit_card'] = 'Pagar con tarjeta de crédito Wide Pay';
 $lang['Widepay.buildprocess.submit_ticket'] = 'Pagar con Wide Pay Ticket';
-$lang['Widepay.charge_types.ticket'] = 'Billete';
+$lang['Widepay.charge_types.ticket'] = 'Ticket';
 $lang['Widepay.charge_types.card'] = 'Tarjeta de crédito';
 

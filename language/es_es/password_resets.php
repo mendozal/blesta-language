@@ -9,6 +9,6 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['PasswordResets.!error.email.format'] = 'Dirección de correo electrónico no válida.';
+$lang['PasswordResets.!error.email.format'] = 'Dirección de email no válida.';
 $lang['PasswordResets.!error.user_id.exists'] = 'ID de usuario no válido.';
 

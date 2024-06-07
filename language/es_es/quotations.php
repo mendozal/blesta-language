@@ -11,13 +11,13 @@
 
 $lang['Quotations.!error.quotation_add.failed'] = 'No se ha podido crear este presupuesto. Por favor, inténtelo de nuevo.';
 $lang['Quotations.!error.id.quotation_invoiced'] = 'Este presupuesto ha sido facturado y no puede ser editado.';
-$lang['Quotations.!error.id_format.empty'] = 'No se ha establecido un formato de identificación para las citas.';
-$lang['Quotations.!error.id_format.length'] = 'El formato de identificación de las citas no puede superar los 64 caracteres.';
-$lang['Quotations.!error.id_value.valid'] = 'No se puede determinar el valor de ID de la cita.';
+$lang['Quotations.!error.id_format.empty'] = 'No se ha establecido un formato de identificación para los presupuestos.';
+$lang['Quotations.!error.id_format.length'] = 'El formato de identificación de los presupuestos no puede superar los 64 caracteres.';
+$lang['Quotations.!error.id_value.valid'] = 'No se puede determinar el valor de ID del presupuesto.';
 $lang['Quotations.!error.client_id.exists'] = 'ID de cliente no válido.';
 $lang['Quotations.!error.staff_id.exists'] = 'ID de personal no válida.';
 $lang['Quotations.!error.title.empty'] = 'Por favor, introduzca un título.';
-$lang['Quotations.!error.title.length'] = 'El título de las citas no puede superar los 255 caracteres.';
+$lang['Quotations.!error.title.length'] = 'El título de los presupuestos no puede superar los 255 caracteres.';
 $lang['Quotations.!error.date_created.format'] = 'La fecha de creación tiene un formato no válido.';
 $lang['Quotations.!error.date_expires.format'] = 'La fecha de caducidad tiene un formato no válido.';
 $lang['Quotations.!error.date_expires.after_created'] = 'El vencimiento debe ser igual o posterior a la creación facturada.';

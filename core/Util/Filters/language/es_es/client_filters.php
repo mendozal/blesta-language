@@ -11,7 +11,7 @@
 
 $lang['Util.filters.client_filters.any'] = 'Cualquier';
 $lang['Util.filters.client_filters.field_contact_name'] = 'Nombre';
-$lang['Util.filters.client_filters.field_contact_email'] = 'Correo electrónico';
+$lang['Util.filters.client_filters.field_contact_email'] = 'Email';
 $lang['Util.filters.client_filters.field_contact_company'] = 'Empresa';
 $lang['Util.filters.client_filters.field_contact_country'] = 'País';
 $lang['Util.filters.client_filters.field_client_group_id'] = 'Grupo de clientes';

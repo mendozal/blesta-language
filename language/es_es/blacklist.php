@@ -13,7 +13,7 @@ $lang['Blacklist.!error.rule.exists'] = 'Esta regla ya existe en la base de dato
 $lang['Blacklist.!error.plugin_dir.exists'] = 'El plugin indicado no existe.';
 $lang['Blacklist.!error.type.format'] = 'El tipo debe ser "ip" o "email".';
 $lang['Blacklist.!error.rule.format_ip'] = 'La regla proporcionada no es una dirección IP válida o una notación CIDR.';
-$lang['Blacklist.!error.rule.format_email'] = 'La regla proporcionada no es una dirección de correo electrónico.';
+$lang['Blacklist.!error.rule.format_email'] = 'La regla proporcionada no es una dirección de email.';
 $lang['Blacklist.type.ip'] = 'Dirección IP / CIDR';
-$lang['Blacklist.type.email'] = 'Dirección de correo electrónico';
+$lang['Blacklist.type.email'] = 'Dirección de email';
 
