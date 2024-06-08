@@ -21,7 +21,7 @@ $lang['ClientQuotations.index.heading_title'] = 'Título';
 $lang['ClientQuotations.index.heading_subtotal'] = 'Subtotal';
 $lang['ClientQuotations.index.heading_total'] = 'Importe';
 $lang['ClientQuotations.index.heading_date_created'] = 'Creación';
-$lang['ClientQuotations.index.heading_date_expires'] = 'Expiración';
+$lang['ClientQuotations.index.heading_date_expires'] = 'Fecha expiracíon';
 $lang['ClientQuotations.index.heading_options'] = 'Opciones';
 $lang['ClientQuotations.index.option_view'] = 'Ver';
 $lang['ClientQuotations.index.option_approve'] = 'Aprobar';
@@ -33,6 +33,6 @@ $lang['ClientQuotations.approve.field_submit'] = 'Aprobar';
 $lang['ClientQuotations.invoices.heading_invoice'] = 'Factura #';
 $lang['ClientQuotations.invoices.heading_amount'] = 'Importe';
 $lang['ClientQuotations.invoices.heading_paid'] = 'Pagado';
-$lang['ClientQuotations.invoices.heading_date_billed'] = 'Fecha de facturación';
+$lang['ClientQuotations.invoices.heading_date_billed'] = 'Fecha facturación';
 $lang['ClientQuotations.invoices.no_results'] = 'Este presupuesto no tiene facturas asociadas.';
 

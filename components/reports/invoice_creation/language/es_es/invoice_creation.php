@@ -21,7 +21,7 @@ $lang['InvoiceCreation.heading.total'] = 'Total';
 $lang['InvoiceCreation.heading.paid'] = 'Pagado';
 $lang['InvoiceCreation.heading.currency'] = 'Moneda';
 $lang['InvoiceCreation.heading.status'] = 'Estado';
-$lang['InvoiceCreation.heading.date_billed'] = 'Fecha de facturación';
-$lang['InvoiceCreation.heading.date_due'] = 'Fecha de vencimiento';
+$lang['InvoiceCreation.heading.date_billed'] = 'Fecha facturación';
+$lang['InvoiceCreation.heading.date_due'] = 'Fecha vencimiento';
 $lang['InvoiceCreation.heading.date_closed'] = 'Fecha de cierre';
 

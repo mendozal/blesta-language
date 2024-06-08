@@ -41,6 +41,6 @@ $lang['PhpidsManagePlugin.logs.heading.ip'] = 'IP';
 $lang['PhpidsManagePlugin.logs.heading.user_id'] = 'ID de usuario';
 $lang['PhpidsManagePlugin.logs.heading.tags'] = 'Etiquetas';
 $lang['PhpidsManagePlugin.logs.heading.impact'] = 'Impacto';
-$lang['PhpidsManagePlugin.logs.heading.date_added'] = 'Fecha de adición';
+$lang['PhpidsManagePlugin.logs.heading.date_added'] = 'Fecha adición';
 $lang['PhpidsManagePlugin.logs.no_results'] = 'No hay resultados.';
 

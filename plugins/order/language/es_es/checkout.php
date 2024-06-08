@@ -22,7 +22,7 @@ $lang['Checkout.getpaymentaccounts.paymentaccount_cc'] = 'Cuentas de tarjeta de 
 $lang['Checkout.getpaymentaccounts.paymentaccount_ach'] = 'Cuentas ACH';
 $lang['Checkout.getpaymentaccounts.account_name'] = '%1$s %2$s - %3$s x%4$s';
 $lang['Checkout.index.field_agree_tos'] = 'He leído y acepto los <a href="%1$s" target="_blank">Condiciones generales</a>.';
-$lang['Checkout.index.totals.setup_fee'] = 'Tasa de establecimiento:';
+$lang['Checkout.index.totals.setup_fee'] = 'Cargo de configuración:';
 $lang['Checkout.index.totals.discount'] = 'Descuento:';
 $lang['Checkout.index.totals.subtotal'] = 'Subtotal:';
 $lang['Checkout.index.totals.tax'] = '%1$s (%2$s%%):';

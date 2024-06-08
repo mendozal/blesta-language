@@ -19,5 +19,5 @@ $lang['Referrals.index.heading_name'] = 'Nombre';
 $lang['Referrals.index.heading_amount'] = 'Importe';
 $lang['Referrals.index.heading_currency'] = 'Moneda';
 $lang['Referrals.index.heading_commission'] = 'Comisión';
-$lang['Referrals.index.heading_date_added'] = 'Fecha de adición';
+$lang['Referrals.index.heading_date_added'] = 'Fecha adición';
 

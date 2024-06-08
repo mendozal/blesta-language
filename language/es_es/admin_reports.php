@@ -15,5 +15,5 @@ $lang['AdminReports.index.field_format'] = 'Formato';
 $lang['AdminReports.index.field_report_type'] = 'Tipo de informe';
 $lang['AdminReports.index.field_submit'] = 'Exportar';
 $lang['AdminReports.index.reports'] = 'Genere';
-$lang['AdminReports.index.customize'] = 'Personalice';
+$lang['AdminReports.index.customize'] = 'Personalizar';
 

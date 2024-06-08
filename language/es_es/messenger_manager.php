@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['MessengerManager.!error.messenger.missing'] = 'No hay ningún mensajero configurado para el tipo dado.';
+$lang['MessengerManager.!error.messenger.missing'] = 'No hay ningún servicio de mensajería configurado para el tipo dado.';
 $lang['MessengerManager.!error.company_id.valid'] = 'El ID de la empresa no es válido.';
 $lang['MessengerManager.!error.dir.valid'] = 'El directorio no es válido.';
 $lang['MessengerManager.!error.name.valid'] = 'El nombre no es válido.';
