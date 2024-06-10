@@ -10,5 +10,5 @@
  */
 
 $lang['Automation.task.delete_expired_password_reset_tokens.completed'] = 'La tarea de eliminar testigos de restablecimiento de contraseña caducados ha finalizado.';
-$lang['Automation.task.delete_expired_password_reset_tokens.attempt'] = 'Intento de eliminar testigos de restablecimiento de contraseña caducados.';
+$lang['Automation.task.delete_expired_password_reset_tokens.attempt'] = 'Intentando eliminar testigos de restablecimiento de contraseña caducados.';
 

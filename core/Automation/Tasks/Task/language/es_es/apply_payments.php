@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.apply_payments.attempt'] = 'Intento de aplicar créditos a facturas pendientes.';
+$lang['Automation.task.apply_payments.attempt'] = 'Intentando aplicar créditos a facturas pendientes.';
 $lang['Automation.task.apply_payments.completed'] = 'La tarea de aplicar créditos ha finalizado.';
 $lang['Automation.task.apply_payments.attempt_group'] = 'Intentando aplicar créditos para el grupo de clientes %1$s.';
 $lang['Automation.task.apply_payments.completed_group'] = 'Completada la aplicación de créditos para el grupo de clientes %1$s.';

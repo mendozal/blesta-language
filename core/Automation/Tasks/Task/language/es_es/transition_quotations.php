@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.transition_quotations.attempt'] = 'Intento de transición de cotizaciones caducadas.';
+$lang['Automation.task.transition_quotations.attempt'] = 'Intentando transición de cotizaciones caducadas.';
 $lang['Automation.task.transition_quotations.completed'] = 'La tarea de transición de presupuestos ha finalizado.';
 $lang['Automation.task.transition_quotations.none'] = 'No hay cotizaciones caducadas disponibles para la transición.';
 $lang['Automation.task.transition_quotations.expiration_success'] = 'El presupuesto pendiente #%1$s del cliente #%2$s ha caducado.';

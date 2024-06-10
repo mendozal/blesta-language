@@ -11,7 +11,7 @@
 
 $lang['Signup.!error.captcha.invalid'] = 'El captcha introducido no es válido. Por favor, inténtelo de nuevo.';
 $lang['Signup.!error.not_client_owner'] = 'Debe iniciar sesión como propietario del cliente para poder continuar.';
-$lang['Signup.!notice.force_email_usernames'] = 'Tu nombre de usuario será el mismo que tu dirección de email.';
+$lang['Signup.!notice.force_email_usernames'] = 'Su nombre de usuario será el mismo que su dirección de email.';
 $lang['Signup.!notice.email_verification'] = 'Se ha enviado un mensaje para verificar su dirección de email. Por favor, complete la verificación lo antes posible.';
 $lang['Signup.index.field_taxid'] = 'RUC/CI';
 $lang['Signup.index.field_firstname'] = 'Nombre';

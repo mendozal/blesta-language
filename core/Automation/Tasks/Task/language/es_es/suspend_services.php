@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Automation.task.suspendservices.attempt'] = 'Intentar tramitar suspensiones de servicio.';
+$lang['Automation.task.suspendservices.attempt'] = 'Intentando procesar suspensiones de servicio.';
 $lang['Automation.task.suspendservices.completed'] = 'La tarea de suspensión del servicio ha finalizado.';
 $lang['Automation.task.suspendservices.suspension_reason'] = 'Impago';
 $lang['Automation.task.suspendservices.error'] = 'No se ha podido suspender el servicio #%1$s del cliente %2$s.';

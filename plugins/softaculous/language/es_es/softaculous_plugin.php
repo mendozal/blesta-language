@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SoftaculousPlugin.name'] = 'Instalador de Soft Auto';
+$lang['SoftaculousPlugin.name'] = 'Instalador Softaculous';
 $lang['SoftaculousPlugin.library_error'] = 'No se ha podido cargar la biblioteca.';
 $lang['SoftaculousPlugin.remote_error'] = 'No se ha podido iniciar sesión en el servidor remoto.';
 $lang['SoftaculousPlugin.remote_error_message'] = 'No se ha podido iniciar sesión en el servidor remoto. Error: %1$s';
@@ -21,6 +21,6 @@ $lang['SoftaculousPlugin.script_no_installed'] = 'No se ha podido instalar el sc
 $lang['SoftaculousPlugin.admin_fname'] = 'Sistema';
 $lang['SoftaculousPlugin.admin_lname'] = 'Administrador';
 $lang['SoftaculousPlugin.installation_success'] = 'Script instalado correctamente para el servicio con ID %1$s';
-$lang['SoftaculousPlugin.cron.script_installation_name'] = 'Provisión de guiones de servicio';
+$lang['SoftaculousPlugin.cron.script_installation_name'] = 'Aprovisionamiento de scripts de servicios';
 $lang['SoftaculousPlugin.cron.script_installation_desc'] = 'Instala los scripts pendientes para los servicios.';
 

@@ -10,7 +10,7 @@
  */
 
 $lang['Gocardless.name'] = 'GoCardless';
-$lang['Gocardless.description'] = 'Cobra pagos periódicos de más de 30 países y haz que se abonen en tu cuenta bancaria existente';
+$lang['Gocardless.description'] = 'Cobra pagos recurrentes de más de 30 países y haz que se abonen en tu cuenta bancaria existente';
 $lang['Gocardless.access_token'] = 'Ficha de acceso';
 $lang['Gocardless.webhook_secret'] = 'Secreto de Webhook';
 $lang['Gocardless.pay_type'] = 'Formas de pago';
