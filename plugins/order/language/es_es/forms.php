@@ -10,5 +10,5 @@
  */
 
 $lang['Forms.index.order_now'] = 'Pedir ahora';
-$lang['Forms.index.register'] = 'Regístrese en';
+$lang['Forms.index.register'] = 'Registrarse';
 

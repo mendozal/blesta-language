@@ -20,12 +20,12 @@ $lang['AdminCompanyLookandfeel.!tooltip.action_name'] = 'Para crear acciones mul
 $lang['AdminCompanyLookandfeel.!tooltip.action_name_language'] = 'Enlace';
 $lang['AdminCompanyLookandfeel.!tooltip.action_url'] = 'Esta ruta puede ser relativa (por ejemplo, clientes/add) o absoluta (por ejemplo, %1$sclients/add/ o https://blesta.com). Las rutas relativas se basarán en la interfaz que se muestre.  Por ejemplo, clients/add enlazará con %1$sclients/add';
 $lang['AdminCompanyLookandfeel.!tooltip.disabled_location'] = 'La ubicación de una acción no puede modificarse después de su creación.';
-$lang['AdminCompanyLookandfeel.!tooltip.client_view_override'] = 'Permitir al cliente anular la plantilla desde la URL definiendo el parámetro "bltemplate" donde el valor es el nombre del directorio de la plantilla, por ejemplo "/?bltemplate=bootstrap".';
+$lang['AdminCompanyLookandfeel.!tooltip.client_view_override'] = 'Permitir al cliente cambiar la plantilla desde la URL definiendo el parámetro "bltemplate" donde el valor es el nombre del directorio de la plantilla, por ejemplo "/?bltemplate=bootstrap".';
 $lang['AdminCompanyLookandfeel.template.page_title'] = 'Configuración > Empresa > Aspecto > Plantilla';
 $lang['AdminCompanyLookandfeel.template.box_title'] = 'Plantilla';
 $lang['AdminCompanyLookandfeel.template.text_client_view_dir'] = 'Plantilla de cliente';
 $lang['AdminCompanyLookandfeel.template.text_admin_view_dir'] = 'Plantilla Admin';
-$lang['AdminCompanyLookandfeel.template.text_client_view_override'] = 'Permitir anular la plantilla de cliente desde la URL';
+$lang['AdminCompanyLookandfeel.template.text_client_view_override'] = 'Permitir cambiar la plantilla de cliente desde la URL';
 $lang['AdminCompanyLookandfeel.template.text_submit'] = 'Guardar';
 $lang['AdminCompanyLookandfeel.layout.page_title'] = 'Configuración > Empresa > Aspecto > Diseño';
 $lang['AdminCompanyLookandfeel.layout.box_title'] = 'Diseño';

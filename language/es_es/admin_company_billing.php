@@ -275,7 +275,7 @@ $lang['AdminCompanyBilling.deliverymethods.interfax_desc'] = 'InterFax le permit
 $lang['AdminCompanyBilling.deliverymethods.heading_postalmethods'] = 'Métodos postales';
 $lang['AdminCompanyBilling.deliverymethods.postalmethods_desc'] = 'PostalMethods imprime, rellena y envía las facturas a sus clientes por usted. <a href="https://cp.postalmethods.com/public/agentredirect.aspx?agentid=5bcfe2fb-b897-4a26-8c91-4089e92e2a7d" target="_blank">Regístrese</a> en PostalMethods y empiece a enviar facturas hoy mismo.';
 $lang['AdminCompanyBilling.deliverymethods.field_delivery_methods'] = 'Métodos de entrega de facturas';
-$lang['AdminCompanyBilling.deliverymethods.field_interfax_username'] = 'Nombre de usuario';
+$lang['AdminCompanyBilling.deliverymethods.field_interfax_username'] = 'Usuario';
 $lang['AdminCompanyBilling.deliverymethods.field_interfax_password'] = 'Contraseña';
 $lang['AdminCompanyBilling.deliverymethods.field_postalmethods_apikey'] = 'Clave secreta API';
 $lang['AdminCompanyBilling.deliverymethods.field_postalmethods_doublesided'] = 'Impresión a doble cara';
