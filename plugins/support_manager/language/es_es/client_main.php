@@ -12,7 +12,7 @@
 $lang['ClientMain.index.page_title'] = 'Soporte > Tickets';
 $lang['ClientMain.index.category_open'] = 'Abierto';
 $lang['ClientMain.index.category_closed'] = 'Cerrado';
-$lang['ClientMain.index.categorylink_createticket'] = 'Ticket abierto';
+$lang['ClientMain.index.categorylink_createticket'] = 'Abrir ticket';
 $lang['ClientMain.index.boxtitle_tickets'] = 'Tickets';
 $lang['ClientMain.index.heading_code'] = 'Número de ticket';
 $lang['ClientMain.index.heading_priority'] = 'Prioridad';
