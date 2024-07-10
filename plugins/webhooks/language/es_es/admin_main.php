@@ -9,13 +9,13 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['AdminMain.edit.text_fields_map'] = 'Esta sección le permite renombrar el nombre de los campos del evento que se está activando a un nombre personalizado antes de que se envíen a la devolución de llamada. Los subcampos deben ir separados por un punto (por ejemplo, vars.status). Para ver una lista de todos los campos soportados por cada uno de los eventos, puedes consultar el siguiente <a href="https://docs.blesta.com/display/dev/Event+Handlers" target="_blank">enlace</a>.';
+$lang['AdminMain.edit.text_fields_map'] = 'Esta sección le permite renombrar el nombre de los campos del evento que se está activando a un nombre personalizado antes de que se envíen a la callback. Los subcampos deben ir separados por un punto (por ejemplo, vars.status). Para ver una lista de todos los campos soportados por cada uno de los eventos, puedes consultar el siguiente <a href="https://docs.blesta.com/display/dev/Event+Handlers" target="_blank">enlace</a>.';
 $lang['AdminMain.edit.field_editsubmit'] = 'Editar Webhook';
 $lang['AdminMain.edit.field_add_field'] = 'Añadir campo';
 $lang['AdminMain.edit.field_method'] = 'Método';
-$lang['AdminMain.edit.field_type'] = 'Devolución de llamada';
+$lang['AdminMain.edit.field_type'] = 'Callback';
 $lang['AdminMain.edit.field_event'] = 'Evento';
-$lang['AdminMain.edit.field_callback'] = 'Devolución de llamada';
+$lang['AdminMain.edit.field_callback'] = 'Callback';
 $lang['AdminMain.edit.option_delete'] = 'Borrar';
 $lang['AdminMain.edit.heading_options'] = 'Opciones';
 $lang['AdminMain.edit.heading_parameter'] = 'Nuevo campo';
@@ -23,13 +23,13 @@ $lang['AdminMain.edit.heading_field'] = 'Campo original';
 $lang['AdminMain.edit.heading_fields_map'] = 'Mapa de campos';
 $lang['AdminMain.edit.heading_event'] = 'Evento';
 $lang['AdminMain.edit.boxtitle_editwebhook'] = 'Editar Webhook';
-$lang['AdminMain.add.text_fields_map'] = 'Esta sección le permite renombrar el nombre de los campos del evento que se está activando a un nombre personalizado antes de que se envíen a la devolución de llamada. Los subcampos deben ir separados por un punto (por ejemplo, vars.status). Para ver una lista de todos los campos soportados por cada uno de los eventos, puedes consultar el siguiente <a href="https://docs.blesta.com/display/dev/Event+Handlers" target="_blank">enlace</a>.';
+$lang['AdminMain.add.text_fields_map'] = 'Esta sección le permite renombrar el nombre de los campos del evento que se está activando a un nombre personalizado antes de que se envíen al callback. Los subcampos deben ir separados por un punto (por ejemplo, vars.status). Para ver una lista de todos los campos soportados por cada uno de los eventos, puedes consultar el siguiente <a href="https://docs.blesta.com/display/dev/Event+Handlers" target="_blank">enlace</a>.';
 $lang['AdminMain.add.field_addsubmit'] = 'Añadir Webhook';
 $lang['AdminMain.add.field_add_field'] = 'Añadir campo';
 $lang['AdminMain.add.field_method'] = 'Método';
-$lang['AdminMain.add.field_type'] = 'Devolución de llamada';
+$lang['AdminMain.add.field_type'] = 'Callback';
 $lang['AdminMain.add.field_event'] = 'Evento';
-$lang['AdminMain.add.field_callback'] = 'Devolución de llamada';
+$lang['AdminMain.add.field_callback'] = 'Callback';
 $lang['AdminMain.add.option_delete'] = 'Borrar';
 $lang['AdminMain.add.heading_options'] = 'Opciones';
 $lang['AdminMain.add.heading_parameter'] = 'Nuevo campo';
@@ -45,7 +45,7 @@ $lang['AdminMain.index.option_edit'] = 'Editar';
 $lang['AdminMain.index.heading_options'] = 'Opciones';
 $lang['AdminMain.index.heading_method'] = 'Método';
 $lang['AdminMain.index.heading_event'] = 'Evento';
-$lang['AdminMain.index.heading_callback'] = 'Devolución de llamada';
+$lang['AdminMain.index.heading_callback'] = 'Callback';
 $lang['AdminMain.index.boxtitle_webhooks'] = 'Webhooks';
 $lang['AdminMain.index.categorylink_addwebhook'] = 'Añadir Webhook';
 $lang['AdminMain.index.category_outgoing'] = 'Saliente';

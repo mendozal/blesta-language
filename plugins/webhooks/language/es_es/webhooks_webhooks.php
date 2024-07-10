@@ -22,7 +22,7 @@ $lang['WebhooksWebhooks.!error.method.valid'] = 'Seleccione un método válido.'
 $lang['WebhooksWebhooks.!error.type.valid'] = 'Seleccione un tipo válido.';
 $lang['WebhooksWebhooks.!error.event.exists'] = 'El evento proporcionado no existe.';
 $lang['WebhooksWebhooks.!error.callback.length'] = 'La llamada de retorno no puede superar los 255 caracteres.';
-$lang['WebhooksWebhooks.!error.callback.empty'] = 'Por favor, introduzca una devolución de llamada válida.';
-$lang['WebhooksWebhooks.!error.callback.exists'] = 'Ya existe un webhook de este tipo con esta devolución de llamada.';
+$lang['WebhooksWebhooks.!error.callback.empty'] = 'Por favor, introduzca un valor de de callback válido.';
+$lang['WebhooksWebhooks.!error.callback.exists'] = 'Ya existe un webhook de este tipo con este callback.';
 $lang['WebhooksWebhooks.!error.company_id.exists'] = 'La empresa indicada no existe.';
 

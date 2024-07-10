@@ -16,7 +16,7 @@ $lang['Global.time_since.minute'] = '%1$s min';
 $lang['Global.action.quote'] = 'Presupuesto';
 $lang['Global.action.split'] = 'Dividir';
 $lang['Global.action.delete'] = 'Borrar';
-$lang['Global.action.merge'] = 'Fusión';
+$lang['Global.action.merge'] = 'Fusionar';
 $lang['Global.action.reassign'] = 'Reasignar';
-$lang['Global.action.update_status'] = 'Estado de actualización';
+$lang['Global.action.update_status'] = 'Actualizar estado';
 
