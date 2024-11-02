@@ -33,6 +33,6 @@ $lang['ClientQuotations.approve.field_submit'] = 'Aprobar';
 $lang['ClientQuotations.invoices.heading_invoice'] = 'Factura #';
 $lang['ClientQuotations.invoices.heading_amount'] = 'Importe';
 $lang['ClientQuotations.invoices.heading_paid'] = 'Pagado';
-$lang['ClientQuotations.invoices.heading_date_billed'] = 'Fecha facturación';
+$lang['ClientQuotations.invoices.heading_date_billed'] = 'Facturado el';
 $lang['ClientQuotations.invoices.no_results'] = 'Este presupuesto no tiene facturas asociadas.';
 
