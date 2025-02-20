@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['DownloadManagerFiles.!error.file_groups.format'] = 'Cel puțin un grup de
 $lang['DownloadManagerFiles.!error.permit_client_groups.format'] = 'Opțiunea de disponibilitate a grupului de clienți are un format invalid.';
 $lang['DownloadManagerFiles.!error.public.assignment'] = 'Dosarul trebuie să fie disponibil fie pentru public, fie pentru grupuri de clienți, fie pentru pachete.';
 $lang['DownloadManagerFiles.!error.public.format'] = 'Opțiunea de disponibilitate publică este într-un format invalid.';
-$lang['DownloadManagerFiles.!error.file_name.format'] = 'Vă rugăm să încărcați un fișier sau să introduceți o cale validă către fișier.';
+$lang['DownloadManagerFiles.!error.file_name.format'] = 'Vă rugăm să încărcați un fișier sau să introduceți o cale validă către fișierul din directorul uploads.';
 $lang['DownloadManagerFiles.!error.name.empty'] = 'Vă rugăm să introduceți un nume pentru acest fișier.';
 $lang['DownloadManagerFiles.!error.company_id.exists'] = 'ID-ul companiei nu este valid.';
 $lang['DownloadManagerFiles.!error.category_id.exists'] = 'Vă rugăm să selectați o categorie validă.';

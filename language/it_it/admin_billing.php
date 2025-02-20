@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -175,4 +175,9 @@ $lang['AdminBilling.!success.services_pushed'] = 'I servizi selezionati sono sta
 $lang['AdminBilling.!success.services_scheduled_uncancel'] = 'Non è più prevista la cancellazione dei servizi selezionati.';
 $lang['AdminBilling.!success.services_scheduled_cancel'] = 'I servizi selezionati sono stati programmati con successo per essere cancellati.';
 $lang['AdminBilling.!success.invoices_marked_printed'] = 'Le fatture selezionate sono state contrassegnate come stampate.';
+$lang['AdminBilling.services.action.field_suspension_reason'] = 'Motivo della sospensione:';
+$lang['AdminBilling.services.action.unsuspend'] = 'Non sospendere';
+$lang['AdminBilling.services.action.suspend'] = 'Sospendere';
+$lang['AdminBilling.!success.services_unsuspended'] = 'I servizi selezionati sono stati sospesi con successo.';
+$lang['AdminBilling.!success.services_suspended'] = 'I servizi selezionati sono stati sospesi con successo.';
 

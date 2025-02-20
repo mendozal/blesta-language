@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,4 +73,5 @@ $lang['Contacts.!error.contact_type.format'] = 'Nesprávný typ kontaktu.';
 $lang['Contacts.!error.user_id.exists'] = 'Neplatné ID uživatele.';
 $lang['Contacts.!error.client_id.exists'] = 'Neplatné ID klienta.';
 $lang['Contacts.getPermissionOptions.client_quotations'] = 'Citace';
+$lang['Contacts.!error.number.required'] = 'Kontaktní číslo je povinné.';
 

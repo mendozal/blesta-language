@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,4 +16,6 @@ $lang['PackageFeed.getOptionFields.example_code_name'] = 'Mostra il nome di un p
 $lang['PackageFeed.getOptionFields.title_row_example_code'] = 'Codice di esempio';
 $lang['PackageFeed.description'] = 'Restituisce il nome, la descrizione o il prezzo di un pacchetto.';
 $lang['PackageFeed.name'] = 'Pacchetti';
+$lang['PackageFeed.getOptionFields.example_code_clientlimit'] = 'Mostra il limite di quantità del cliente di un pacchetto:';
+$lang['PackageFeed.getOptionFields.example_code_quantity'] = 'Mostra la quantità di magazzino (quantità) di una confezione:';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,4 +59,6 @@ $lang['AdminCompanyGroups.!error.delete_failed'] = '%1$s é o grupo padrão e n�
 $lang['AdminCompanyGroups.!success.delete_deleted'] = '%1$s foi excluído com sucesso!';
 $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s foi editado com sucesso!';
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s foi criado com sucesso!';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Gateways permitidos';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Gateways permitidos';
 

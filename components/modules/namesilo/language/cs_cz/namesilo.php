@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -229,4 +229,19 @@ $lang['Namesilo.description'] = 'Přeprodej domén prostřednictvím služby Nam
 $lang['Namesilo.name'] = 'NázevSilo';
 $lang['Namesilo.dnsrecord.distance'] = 'Priorita';
 $lang['Namesilo.tab_whois.copy_registrant_info'] = 'Kopírovat informace o registrantovi';
+$lang['Namesilo.!success.contact_deleted'] = 'Kontakt byl úspěšně odstraněn.';
+$lang['Namesilo.tab_edit_contact.field_submit'] = 'Uložit kontakt';
+$lang['Namesilo.tab_edit_contact.field_back'] = 'Zpět';
+$lang['Namesilo.tab_add_contact.title'] = 'Přidat kontakt';
+$lang['Namesilo.tab_edit_contact.title'] = 'Upravit kontakt';
+$lang['Namesilo.tab_manage_contacts.field_submit'] = 'Nastavení výchozího kontaktu registrátora';
+$lang['Namesilo.tab_manage_contacts.field_sync'] = 'Stažení kontaktů z registru';
+$lang['Namesilo.tab_manage_contacts.option_delete'] = 'Odstranit';
+$lang['Namesilo.tab_manage_contacts.option_edit'] = 'Upravit';
+$lang['Namesilo.tab_manage_contacts.option_add'] = 'Přidat kontakt';
+$lang['Namesilo.tab_manage_contacts.heading_options'] = 'Možnosti';
+$lang['Namesilo.tab_manage_contacts.heading_name'] = 'Kontaktní jméno';
+$lang['Namesilo.tab_manage_contacts.title'] = 'Správa kontaktů';
+$lang['Namesilo.tab_whois.section_technical'] = 'Technická stránka';
+$lang['Namesilo.tab_whois.section_administrative'] = 'Administrativní';
 

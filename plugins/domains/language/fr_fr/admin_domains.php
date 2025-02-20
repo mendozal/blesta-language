@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -258,4 +258,18 @@ $lang['AdminDomains.browse.unparent'] = 'Unparent et Reset Price';
 $lang['AdminDomains.import.field_restart'] = 'Recommencer';
 $lang['AdminDomains.browse.heading_added'] = 'Date d\'ajout';
 $lang['AdminDomains.!success.domain_registrar_updated'] = 'Le bureau d\'enregistrement du domaine a été mis à jour !';
+$lang['AdminDomains.getTldActions.option_delete'] = 'Supprimer des TLD';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'Code EPP';
+$lang['AdminDomains.getTldActions.option_id_protection'] = 'Protection de l\'identité';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = 'Transfert d\'e-mail';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'Gestion des DNS';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s n\'a pas pu être mis à jour pour les TLD suivants : %2$s';
+$lang['AdminDomains.!success.epp_code'] = 'L\'accès au code PPE a été mis à jour avec succès !';
+$lang['AdminDomains.!success.id_protection'] = 'La protection de l\'identité a été mise à jour avec succès !';
+$lang['AdminDomains.!success.email_forwarding'] = 'La mise à jour de l\'Email Forwarding a été effectuée avec succès !';
+$lang['AdminDomains.!success.dns_management'] = 'La mise à jour de la gestion DNS a été effectuée avec succès !';
+$lang['AdminDomains.!success.delete_partial'] = 'Les TLD suivants n\'ont pas pu être supprimés car ils étaient en cours d\'utilisation : %1$s';
+$lang['AdminDomains.!success.delete'] = 'Les TLD ont été supprimés avec succès !';
+$lang['AdminDomains.!success.change_registration_date'] = 'La date d\'enregistrement du domaine a été mise à jour !';
+$lang['AdminDomains.!success.change_expiration_date'] = 'La date d\'expiration du domaine a été mise à jour !';
 

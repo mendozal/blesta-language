@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -113,4 +113,6 @@ $lang['AdminMain.!success.file_added'] = '文件已成功添加。';
 $lang['AdminMain.!success.category_deleted'] = '类别已成功删除。';
 $lang['AdminMain.!success.category_updated'] = '类别已成功更新。';
 $lang['AdminMain.!success.category_added'] = '类别已成功创建。';
+$lang['AdminMain.edit.text_full_path'] = '注意：文件必须位于上传目录中的某个位置： <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = '注意：文件必须位于上传目录中的某个位置： <strong>%1$s</strong>.';
 

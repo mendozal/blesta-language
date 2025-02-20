@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -25,4 +25,8 @@ $lang['WebhooksWebhooks.!error.callback.length'] = 'Callbacken får inte överst
 $lang['WebhooksWebhooks.!error.callback.empty'] = 'Vänligen ange en giltig återuppringning.';
 $lang['WebhooksWebhooks.!error.callback.exists'] = 'En webhook av denna typ finns redan med denna callback.';
 $lang['WebhooksWebhooks.!error.company_id.exists'] = 'Det angivna företaget existerar inte.';
+$lang['WebhooksWebhooks.getMethods.put_json'] = 'PUT JSON';
+$lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
+$lang['WebhooksWebhooks.getMethods.put'] = 'PUT';
+$lang['WebhooksWebhooks.!error.events[].exists'] = 'Den angivna händelsen finns inte.';
 

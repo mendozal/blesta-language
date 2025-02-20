@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,7 +16,7 @@ $lang['DownloadManagerFiles.!error.file_groups.format'] = 'Co najmniej jedna wyb
 $lang['DownloadManagerFiles.!error.permit_client_groups.format'] = 'Opcja dostępności grupy klientów ma nieprawidłowy format.';
 $lang['DownloadManagerFiles.!error.public.assignment'] = 'Plik musi być dostępny publicznie, dla grup klientów lub pakietów.';
 $lang['DownloadManagerFiles.!error.public.format'] = 'Opcja dostępności publicznej ma nieprawidłowy format.';
-$lang['DownloadManagerFiles.!error.file_name.format'] = 'Prześlij plik lub wprowadź prawidłową ścieżkę do pliku.';
+$lang['DownloadManagerFiles.!error.file_name.format'] = 'Prześlij plik lub wprowadź prawidłową ścieżkę do pliku w katalogu uploads.';
 $lang['DownloadManagerFiles.!error.name.empty'] = 'Wprowadź nazwę dla tego pliku.';
 $lang['DownloadManagerFiles.!error.company_id.exists'] = 'Nieprawidłowy identyfikator firmy.';
 $lang['DownloadManagerFiles.!error.category_id.exists'] = 'Wybierz odpowiednią kategorię.';

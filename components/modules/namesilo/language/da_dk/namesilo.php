@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -229,4 +229,19 @@ $lang['Namesilo.!error.CA.CIRALegalType.other'] = 'Kun enkelte juridiske typer k
 $lang['Namesilo.!tooltip.upgrades_use_renewal'] = 'Når den er aktiveret, vil opgradering til denne pakke bruge fornyelsespriser, hvis de er indstillet. Den almindelige pris vil blive brugt, hvis denne indstilling er deaktiveret.';
 $lang['Namesilo.tab_whois.copy_registrant_info'] = 'Kopier oplysninger om registranten';
 $lang['Namesilo.dnsrecord.distance'] = 'Prioritet';
+$lang['Namesilo.!success.contact_deleted'] = 'Kontakten blev slettet med succes.';
+$lang['Namesilo.tab_edit_contact.field_submit'] = 'Gem kontakt';
+$lang['Namesilo.tab_edit_contact.field_back'] = 'Tilbage';
+$lang['Namesilo.tab_add_contact.title'] = 'Tilføj kontakt';
+$lang['Namesilo.tab_edit_contact.title'] = 'Rediger kontakt';
+$lang['Namesilo.tab_manage_contacts.field_submit'] = 'Indstil standardregistrantkontakt';
+$lang['Namesilo.tab_manage_contacts.field_sync'] = 'Hent kontakter fra registreringsdatabasen';
+$lang['Namesilo.tab_manage_contacts.option_delete'] = 'Sletning';
+$lang['Namesilo.tab_manage_contacts.option_edit'] = 'Rediger';
+$lang['Namesilo.tab_manage_contacts.option_add'] = 'Tilføj kontakt';
+$lang['Namesilo.tab_manage_contacts.heading_options'] = 'Valgmuligheder';
+$lang['Namesilo.tab_manage_contacts.heading_name'] = 'Navn på kontaktperson';
+$lang['Namesilo.tab_manage_contacts.title'] = 'Administrer kontakter';
+$lang['Namesilo.tab_whois.section_technical'] = 'Teknisk';
+$lang['Namesilo.tab_whois.section_administrative'] = 'Administrativt';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -95,4 +95,11 @@ $lang['Invoices.getPricingPeriods.year'] = 'År';
 $lang['Invoices.getPricingPeriods.month'] = 'Månad';
 $lang['Invoices.getPricingPeriods.week'] = 'Vecka';
 $lang['Invoices.getPricingPeriods.day'] = 'Dag';
+$lang['Invoices.!error.invoice_id.unique'] = 'Destinationsfakturan får inte vara en del av de fakturor som ska slås samman.';
+$lang['Invoices.!error.invoice_id.status'] = 'Destinationsfakturan måste vara öppen och utan några transaktioner.';
+$lang['Invoices.!error.invoice_ids.client'] = 'Alla fakturor måste tillhöra samma kund.';
+$lang['Invoices.!error.invoice_ids.status'] = 'Alla fakturor måste vara öppna och utan några transaktioner.';
+$lang['Invoices.!error.invoice_ids.currency'] = 'Alla fakturor måste ha samma valuta.';
+$lang['Invoices.!error.invoice_ids.count'] = 'Minst två fakturor måste väljas.';
+$lang['Invoices.!line_item.parent_description'] = 'Child Service på %1$s - %2$s:';
 

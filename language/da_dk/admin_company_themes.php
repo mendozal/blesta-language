@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.edit.field_theme_info_button_color'] = 'Info-knapfarve
 $lang['AdminCompanyThemes.edit.field_theme_warning_button_color'] = 'Farver på advarselsknapper';
 $lang['AdminCompanyThemes.edit.field_theme_danger_button_color'] = 'Farver på fareknappen';
 $lang['AdminCompanyThemes.edit.field_theme_light_button_color'] = 'Farver på lysknapper';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'Brugerdefineret CSS';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'Brugerdefineret CSS';
 

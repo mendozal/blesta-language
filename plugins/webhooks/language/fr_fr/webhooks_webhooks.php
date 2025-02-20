@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -25,4 +25,8 @@ $lang['WebhooksWebhooks.!error.callback.length'] = 'Le rappel ne peut pas dépas
 $lang['WebhooksWebhooks.!error.callback.empty'] = 'Veuillez saisir un rappel valide.';
 $lang['WebhooksWebhooks.!error.callback.exists'] = 'Un webhook de ce type existe déjà avec ce callback.';
 $lang['WebhooksWebhooks.!error.company_id.exists'] = 'L\'entreprise fournie n\'existe pas.';
+$lang['WebhooksWebhooks.getMethods.put_json'] = 'PUT JSON';
+$lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
+$lang['WebhooksWebhooks.getMethods.put'] = 'PUT';
+$lang['WebhooksWebhooks.!error.events[].exists'] = 'L\'événement fourni n\'existe pas.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -167,4 +167,5 @@ $lang['ClientServices.!error.invoices_renew_service'] = 'O serviço não pode se
 $lang['ClientServices.!error.invoices_change_term'] = 'O prazo não pode ser alterado até que todas as faturas contendo esse serviço tenham sido pagas.';
 $lang['ClientServices.!error.invoices_manage_options'] = 'As opções configuráveis não podem ser alteradas até que todas as faturas que contêm esse serviço tenham sido pagas.';
 $lang['ClientServices.!error.password_mismatch'] = 'A senha não corresponde à sua senha de login.';
+$lang['ClientServices.manage.button_manage_parent'] = 'Gerenciar o serviço dos pais';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -141,7 +141,12 @@ $lang['AdminDepartments.index.categorylink_adddepartment'] = 'Departman Ekle';
 $lang['AdminDepartments.edit.page_title'] = 'Destek Yöneticisi > Departmanlar > Departmanı Düzenle';
 $lang['AdminDepartments.add.page_title'] = 'Destek Yöneticisi > Departmanlar > Departman Ekle';
 $lang['AdminDepartments.index.page_title'] = 'Destek Yöneticisi > Departmanlar';
-$lang['AdminDepartments.!success.department_deleted'] = '1$s departmanı başarıyla silindi.';
-$lang['AdminDepartments.!success.department_updated'] = '1$s departmanı başarıyla güncellendi.';
-$lang['AdminDepartments.!success.department_created'] = '1$s departmanı başarıyla oluşturuldu.';
+$lang['AdminDepartments.!success.department_deleted'] = '%1$s departmanı başarıyla silindi.';
+$lang['AdminDepartments.!success.department_updated'] = '%1$s departmanı başarıyla güncellendi.';
+$lang['AdminDepartments.!success.department_created'] = '%1$s departmanı başarıyla oluşturuldu.';
+$lang['AdminDepartments.edit.field_priorities'] = 'Mevcut Öncelikler';
+$lang['AdminDepartments.add.field_priorities'] = 'Mevcut Öncelikler';
+$lang['AdminDepartments.edit.field_force_import'] = 'İthalatı Zorla';
+$lang['AdminDepartments.add.field_force_import'] = 'İthalatı Zorla';
+$lang['AdminDepartments.!success.department_imported'] = '%1$s departmanı başarıyla içe aktarıldı.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -56,4 +56,7 @@ $lang['AdminMain.overview.statistic.services_active'] = 'Serviços ativos';
 $lang['AdminMain.overview.statistic.clients_active'] = 'Clientes ativos';
 $lang['AdminMain.index.boxtitle_overview'] = 'Visão geral do sistema';
 $lang['AdminMain.!success.options_updated'] = 'As configurações da Visão geral do sistema foram atualizadas com sucesso!';
+$lang['AdminMain.date_range.month'] = 'Mês atual';
+$lang['AdminMain.date_range.day'] = '1 dia';
+$lang['AdminMain.date_range.ytd'] = 'Ano até a data';
 

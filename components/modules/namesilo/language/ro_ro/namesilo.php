@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -229,4 +229,19 @@ $lang['Namesilo.module_row_plural'] = 'Conturi';
 $lang['Namesilo.module_row'] = 'Cont';
 $lang['Namesilo.description'] = 'Revindeți domenii prin NameSilo.';
 $lang['Namesilo.name'] = 'NameSilo';
+$lang['Namesilo.!success.contact_deleted'] = 'Contactul a fost șters cu succes.';
+$lang['Namesilo.tab_edit_contact.field_submit'] = 'Salvați contactul';
+$lang['Namesilo.tab_edit_contact.field_back'] = 'Înapoi';
+$lang['Namesilo.tab_add_contact.title'] = 'Adaugă contact';
+$lang['Namesilo.tab_edit_contact.title'] = 'Editare contact';
+$lang['Namesilo.tab_manage_contacts.field_submit'] = 'Setați contactul registrant implicit';
+$lang['Namesilo.tab_manage_contacts.field_sync'] = 'Extragerea contactelor din registru';
+$lang['Namesilo.tab_manage_contacts.option_delete'] = 'Ștergeți';
+$lang['Namesilo.tab_manage_contacts.option_edit'] = 'Editare';
+$lang['Namesilo.tab_manage_contacts.option_add'] = 'Adaugă contact';
+$lang['Namesilo.tab_manage_contacts.heading_options'] = 'Opțiuni';
+$lang['Namesilo.tab_manage_contacts.heading_name'] = 'Nume de contact';
+$lang['Namesilo.tab_manage_contacts.title'] = 'Gestionați contactele';
+$lang['Namesilo.tab_whois.section_technical'] = 'Tehnic';
+$lang['Namesilo.tab_whois.section_administrative'] = 'Administrativ';
 

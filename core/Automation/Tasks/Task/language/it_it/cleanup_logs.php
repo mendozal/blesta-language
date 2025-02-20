@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,5 @@ $lang['Automation.task.cleanup_logs.logs_module_deleted'] = 'I vecchi registri d
 $lang['Automation.task.cleanup_logs.logs_gateway_deleted'] = 'I vecchi registri di Gateway di %1$s sono stati cancellati.';
 $lang['Automation.task.cleanup_logs.completed'] = 'L\'attività di pulizia dei registri è stata completata.';
 $lang['Automation.task.cleanup_logs.attempt'] = 'Tentativo di ripulire i vecchi registri.';
+$lang['Automation.task.cleanup_logs.logs_service_changes_deleted'] = '%1$s I vecchi registri delle modifiche al servizio sono stati eliminati.';
 

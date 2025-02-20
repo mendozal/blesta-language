@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -148,7 +148,7 @@ $lang['Solusvm.module_group'] = 'Мастер-группа SolusVM';
 $lang['Solusvm.module_row_plural'] = 'Серверы';
 $lang['Solusvm.module_row'] = 'Главный сервер SolusVM';
 $lang['Solusvm.description'] = 'Solus Virtual Manager (SolusVM) - это мощная система управления VPS с графическим интерфейсом и полной поддержкой OpenVZ, Linux KVM, Xen Paravirtualization и Xen HVM.';
-$lang['Solusvm.!percent.used'] = '%1$s%';
+$lang['Solusvm.!percent.used'] = '%1$s';
 $lang['Solusvm.!bytes.value'] = '%1$s%2$s';
 $lang['Solusvm.please_select'] = '-- Пожалуйста, выберите...';
 $lang['Solusvm.!success.reinstall'] = 'Сейчас сервер переустанавливается.';

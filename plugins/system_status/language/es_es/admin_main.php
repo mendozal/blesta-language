@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -42,4 +42,6 @@ $lang['AdminMain.index.sql_mysql_version_serious'] = 'La versión de MySQL no cu
 $lang['AdminMain.index.sql_mysql_version_requirements'] = 'Ver requisitos mínimos';
 $lang['AdminMain.index.sql_mariadb_version_serious'] = 'La versión de MariaDB no cumple los requisitos mínimos del sistema.';
 $lang['AdminMain.index.sql_mariadb_version_requirements'] = 'Ver requisitos mínimos';
+$lang['AdminMain.index.upload_dir_configure'] = '¿Configurar?';
+$lang['AdminMain.index.upload_dir'] = 'La ruta del directorio de carga en su configuración está dentro del directorio raíz de la web.  Debe colocarse por encima del directorio web raíz para asegurarse de que nunca haya un problema con que sea accesible públicamente.';
 

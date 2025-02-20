@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -102,7 +102,7 @@ $lang['AdminCompanyGeneral.!success.humanverification_updated'] = 'Inställninga
 $lang['AdminCompanyGeneral.!success.smartsearch_updated'] = 'Inställningarna för Smart Search har uppdaterats.';
 $lang['AdminCompanyGeneral.!success.marketing_updated'] = 'Marknadsföringsinställningarna har uppdaterats framgångsrikt.';
 $lang['AdminCompanyGeneral.!success.language_uninstalled'] = 'Språket %1$s har framgångsrikt avinstallerats.';
-$lang['AdminCompanyGeneral.!success.language_installed'] = 'Språket %1$s har installerats framgångsrikt.';
+$lang['AdminCompanyGeneral.!success.language_installed'] = 'Språket %1$s har installerats framgångsrikt. Kom ihåg att uppdatera e-postmeddelanden, paket och paketgrupper med innehåll för det nya språket.';
 $lang['AdminCompanyGeneral.!success.contact_type_deleted'] = 'Kontakttypen "%1$s" har raderats framgångsrikt.';
 $lang['AdminCompanyGeneral.!success.contact_type_updated'] = 'Kontakttypen "%1$s" har uppdaterats framgångsrikt.';
 $lang['AdminCompanyGeneral.!success.contact_type_added'] = 'Kontakttypen "%1$s" har lagts till framgångsrikt.';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -42,4 +42,6 @@ $lang['AdminMain.index.health_poor'] = 'Istnieją poważne problemy, które wpł
 $lang['AdminMain.index.health_fair'] = 'Istnieją pewne kwestie, które wpływają na zdolność systemu do normalnego działania.';
 $lang['AdminMain.index.health_good'] = 'Ogólnie system jest w dobrym stanie, ale są pewne elementy, które mogą wymagać uwagi.';
 $lang['AdminMain.index.health_excellent'] = 'System jest w dobrym stanie i wydaje się działać normalnie.';
+$lang['AdminMain.index.upload_dir_configure'] = 'Konfigurować?';
+$lang['AdminMain.index.upload_dir'] = 'Ścieżka katalogu przesyłania w ustawieniach znajduje się w głównym katalogu internetowym.  Powinien być umieszczony powyżej głównego katalogu internetowego, aby zapewnić, że nigdy nie będzie problemu z jego publicznym dostępem.';
 

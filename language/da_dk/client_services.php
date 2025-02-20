@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -167,4 +167,5 @@ $lang['ClientServices.totals.subtotal'] = 'Subtotal:';
 $lang['ClientServices.totals.total'] = 'I alt forfalder i dag:';
 $lang['ClientServices.totals.total_recurring'] = 'I alt ved fornyelse:';
 $lang['ClientServices.!tooltip.total_recurring'] = 'Den samlede pris ved fornyelse repræsenterer de samlede omkostninger for denne service og alle dens optioner, der forventes ved næste fornyelse.';
+$lang['ClientServices.manage.button_manage_parent'] = 'Administrer forældreservice';
 

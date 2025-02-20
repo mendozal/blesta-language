@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,4 +14,10 @@ $lang['ServiceInvoices.!error.maximum_attempts.format'] = 'I tentativi massimi d
 $lang['ServiceInvoices.!error.failed_attempts.format'] = 'I tentativi falliti devono essere un numero.';
 $lang['ServiceInvoices.!error.invoice_id.exists'] = 'ID fattura non valido.';
 $lang['ServiceInvoices.!error.service_id.exists'] = 'ID servizio non valido.';
+$lang['ServiceInvoices.getattempttypes.cancelation'] = 'Annullamento';
+$lang['ServiceInvoices.getattempttypes.unsuspension'] = 'Non sospensione';
+$lang['ServiceInvoices.getattempttypes.suspension'] = 'Sospensione';
+$lang['ServiceInvoices.getattempttypes.renewal'] = 'Rinnovo';
+$lang['ServiceInvoices.getattempttypes.provisioning'] = 'Approvvigionamento';
+$lang['ServiceInvoices.!error.type.valid'] = 'Tipo di tentativo non valido.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -112,4 +112,6 @@ $lang['DirectAdmin.tab_client_stats.info_title'] = 'Informations';
 $lang['DirectAdmin.tab_client_stats.info_heading.field'] = 'Champ d\'application';
 $lang['DirectAdmin.tab_client_stats.info_heading.value'] = 'Valeur';
 $lang['DirectAdmin.tab_client_stats.no_results'] = 'Aucune information statistique n\'est actuellement disponible.';
+$lang['DirectAdmin.row_meta.ip_address'] = 'Adresse IP';
+$lang['DirectAdmin.!error.ip_address.format'] = 'L\'adresse IP semble être invalide.';
 

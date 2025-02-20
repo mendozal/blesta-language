@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.!success.themes_updated'] = 'Temat har uppdaterats fra
 $lang['AdminCompanyThemes.!error.import_file.theme_type_client'] = 'Det importerade temat är inte ett kundgränssnittstema.';
 $lang['AdminCompanyThemes.!error.import_file.theme_type_admin'] = 'Det importerade temat är inte ett admingränssnittstema.';
 $lang['AdminCompanyThemes.!error.import_file.missing'] = 'Vänligen ladda upp ett tema att importera.';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'Anpassad CSS';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'Anpassad CSS';
 

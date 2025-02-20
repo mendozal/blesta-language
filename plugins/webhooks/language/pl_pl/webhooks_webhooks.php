@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -25,4 +25,8 @@ $lang['WebhooksWebhooks.!error.callback.length'] = 'Wywołanie zwrotne nie może
 $lang['WebhooksWebhooks.!error.callback.empty'] = 'Wprowadź prawidłowe oddzwonienie.';
 $lang['WebhooksWebhooks.!error.callback.exists'] = 'Webhook tego typu już istnieje z tym wywołaniem zwrotnym.';
 $lang['WebhooksWebhooks.!error.company_id.exists'] = 'Podana firma nie istnieje.';
+$lang['WebhooksWebhooks.getMethods.put_json'] = 'PUT JSON';
+$lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
+$lang['WebhooksWebhooks.getMethods.put'] = 'PUT';
+$lang['WebhooksWebhooks.!error.events[].exists'] = 'Podane zdarzenie nie istnieje.';
 

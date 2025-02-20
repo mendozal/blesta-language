@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -50,4 +50,9 @@ $lang['Logs.!error.from_address.empty'] = 'Er ontbreekt een van-adres.';
 $lang['Logs.!error.to_address.empty'] = 'Ontbrekende a naar adres.';
 $lang['Logs.!error.company_id.exists'] = 'Ongeldig bedrijfs-ID.';
 $lang['Logs.!error.deletelog_datetime'] = 'Ongeldig datumformaat.';
+$lang['Logs.!error.new_service.format'] = 'De nieuwe service moet een array zijn.';
+$lang['Logs.!error.old_service.format'] = 'De oude service moet een array zijn.';
+$lang['Logs.!error.transactions.exists'] = 'Een of meer transacties bestaan niet.';
+$lang['Logs.!error.transaction_id.format'] = 'Transacties moeten een array zijn.';
+$lang['Logs.!error.service_id.exists'] = 'Ongeldig service-ID.';
 

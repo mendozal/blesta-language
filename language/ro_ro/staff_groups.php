@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -185,4 +185,10 @@ $lang['StaffGroups.!error.name.empty'] = 'Vă rugăm să introduceți un nume.';
 $lang['StaffGroups.!error.company_id.exists'] = 'ID-ul companiei nu este valid.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'ID-ul grupului de personal invalid.';
 $lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Ștergeți atașamentul de e-mail';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'Ștergeți șablonul HTML';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'Editează șablonul HTML';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Adăugați șablon HTML';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Șabloane HTML';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Serviciul de editare avansată';
+$lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Coada de servicii';
 

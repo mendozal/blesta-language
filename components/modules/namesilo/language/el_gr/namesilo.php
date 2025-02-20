@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -229,4 +229,19 @@ $lang['Namesilo.description'] = 'Μεταπωλήστε domains μέσω του 
 $lang['Namesilo.name'] = 'ΌνομαSilo';
 $lang['Namesilo.tab_whois.copy_registrant_info'] = 'Αντιγραφή πληροφοριών καταχωρητή';
 $lang['Namesilo.dnsrecord.distance'] = 'Προτεραιότητα';
+$lang['Namesilo.!success.contact_deleted'] = 'Η επαφή διαγράφηκε επιτυχώς.';
+$lang['Namesilo.tab_edit_contact.field_submit'] = 'Αποθήκευση επαφής';
+$lang['Namesilo.tab_edit_contact.field_back'] = 'Πίσω';
+$lang['Namesilo.tab_add_contact.title'] = 'Προσθήκη επαφής';
+$lang['Namesilo.tab_edit_contact.title'] = 'Επεξεργασία επαφής';
+$lang['Namesilo.tab_manage_contacts.field_submit'] = 'Ορισμός προεπιλεγμένης επαφής καταχωρητή';
+$lang['Namesilo.tab_manage_contacts.field_sync'] = 'Τραβήξτε επαφές από το μητρώο';
+$lang['Namesilo.tab_manage_contacts.option_delete'] = 'Διαγραφή';
+$lang['Namesilo.tab_manage_contacts.option_edit'] = 'Επεξεργασία';
+$lang['Namesilo.tab_manage_contacts.option_add'] = 'Προσθήκη επαφής';
+$lang['Namesilo.tab_manage_contacts.heading_options'] = 'Επιλογές';
+$lang['Namesilo.tab_manage_contacts.heading_name'] = 'Όνομα επικοινωνίας';
+$lang['Namesilo.tab_manage_contacts.title'] = 'Διαχείριση επαφών';
+$lang['Namesilo.tab_whois.section_technical'] = 'Τεχνικό';
+$lang['Namesilo.tab_whois.section_administrative'] = 'Διοικητική';
 

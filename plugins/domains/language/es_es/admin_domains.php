@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -258,4 +258,18 @@ $lang['AdminDomains.browse.unparent'] = 'Unparent and Reset Price';
 $lang['AdminDomains.import.field_restart'] = 'Volver a empezar';
 $lang['AdminDomains.browse.heading_added'] = 'Fecha añadido';
 $lang['AdminDomains.!success.domain_registrar_updated'] = 'El registrador de dominios ha sido actualizado.';
+$lang['AdminDomains.getTldActions.option_delete'] = 'Eliminar TLD';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'Código PPE';
+$lang['AdminDomains.getTldActions.option_id_protection'] = 'Protección ID';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = 'Reenvío de correo electrónico';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'Gestión de DNS';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s no se ha podido actualizar para los siguientes TLD: %2$s';
+$lang['AdminDomains.!success.epp_code'] = 'El acceso al código PPE se ha actualizado correctamente.';
+$lang['AdminDomains.!success.id_protection'] = 'La Protección de ID se ha actualizado correctamente.';
+$lang['AdminDomains.!success.email_forwarding'] = 'El reenvío de correo electrónico se ha actualizado correctamente.';
+$lang['AdminDomains.!success.dns_management'] = 'La gestión de DNS se ha actualizado correctamente.';
+$lang['AdminDomains.!success.delete_partial'] = 'No se han podido eliminar los siguientes TLD porque estaban en uso: %1$s';
+$lang['AdminDomains.!success.delete'] = 'Los TLD se han eliminado correctamente.';
+$lang['AdminDomains.!success.change_registration_date'] = 'Se ha actualizado la fecha de registro del dominio.';
+$lang['AdminDomains.!success.change_expiration_date'] = 'Se ha actualizado la fecha de expiración del dominio.';
 

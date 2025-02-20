@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -305,4 +305,15 @@ $lang['AdminCompanyBilling.invoices.field.first_renewal_attempt_spacing'] = '1e 
 $lang['AdminCompanyBilling.invoices.field.first_renewal_attempt_threshold'] = '1e poging tot verlenging Afstandsdrempel';
 $lang['AdminCompanyBilling.!tooltip.second_renewal_attempt_threshold'] = 'Het aantal servicevernieuwingen dat moet worden geprobeerd voordat uitstel wordt verleend Pogingen tot vernieuwing uit elkaar plaatsen Pogingen tot vernieuwing 2 uur uit elkaar plaatsen';
 $lang['AdminCompanyBilling.!tooltip.first_renewal_attempt_threshold'] = 'Het aantal servicevernieuwingen dat moet worden geprobeerd voordat uitstel wordt verleend Pogingen tot vernieuwing met een tussenruimte van 1 uur';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = '2e poging afstand';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = '2e poging afstandsdrempel';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = '1e poging afstand';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = '1e poging afstandsdrempel';
+$lang['AdminCompanyBilling.invoices.field.attempts'] = 'Pogingen';
+$lang['AdminCompanyBilling.invoices.field.type'] = 'Type';
+$lang['AdminCompanyBilling.invoices.field.service_actions'] = 'Serviceacties';
+$lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Pogingen tot serviceverlening';
+$lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Het aantal serviceacties dat moet worden geprobeerd voordat de volgende poging wordt vertraagd met de hoeveelheid die is opgegeven door de instelling voor de afstand tussen tweede pogingen';
+$lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Het aantal serviceacties dat moet worden geprobeerd voordat de volgende poging wordt vertraagd met de hoeveelheid die is opgegeven door de instelling voor de afstand tussen de eerste poging en de volgende poging.';
+$lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Het aantal pogingen en mislukkingen om een serviceactie te verwerken voordat die serviceactie wordt uitgeschakeld voor automatische voltooiing.';
 

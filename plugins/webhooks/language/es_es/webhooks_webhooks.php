@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -25,4 +25,8 @@ $lang['WebhooksWebhooks.!error.callback.length'] = 'La llamada de retorno no pue
 $lang['WebhooksWebhooks.!error.callback.empty'] = 'Por favor, introduzca un valor de de callback válido.';
 $lang['WebhooksWebhooks.!error.callback.exists'] = 'Ya existe un webhook de este tipo con este callback.';
 $lang['WebhooksWebhooks.!error.company_id.exists'] = 'La empresa indicada no existe.';
+$lang['WebhooksWebhooks.getMethods.put_json'] = 'PUT JSON';
+$lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
+$lang['WebhooksWebhooks.getMethods.put'] = 'PUT';
+$lang['WebhooksWebhooks.!error.events[].exists'] = 'El evento proporcionado no existe.';
 

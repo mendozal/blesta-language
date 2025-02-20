@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,5 @@ $lang['Automation.task.cleanup_logs.logs_module_deleted'] = 'Видалено с
 $lang['Automation.task.cleanup_logs.logs_gateway_deleted'] = 'Видалено старі журнали шлюзу %1$.';
 $lang['Automation.task.cleanup_logs.completed'] = 'Завдання очищення журналів завершено.';
 $lang['Automation.task.cleanup_logs.attempt'] = 'Спроба почистити старі колоди.';
+$lang['Automation.task.cleanup_logs.logs_service_changes_deleted'] = '%1$s видалено старі журнали змін служби.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -82,4 +82,5 @@ $lang['AppController.!success.license_updated'] = 'Lisansınız başarıyla yeni
 $lang['AppController.!error.invalid_csrf'] = 'Form belirteci geçersiz.';
 $lang['AppController.!error.unauthorized_access'] = 'Bu kaynağa erişim yetkiniz yok';
 $lang['AppController.lang.dir'] = 'ltr';
+$lang['AppController.!error.client_unauthorized_access'] = 'Bu kaynağa erişim izniniz yok, erişim talebinde bulunmak için lütfen birincil hesap sahibiyle iletişime geçin';
 

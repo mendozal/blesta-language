@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -17,5 +17,7 @@ $lang['ClientEmails.index.heading_summary'] = 'Resumen';
 $lang['ClientEmails.index.text_to'] = 'A';
 $lang['ClientEmails.index.text_cc'] = 'CC';
 $lang['ClientEmails.index.text_from'] = 'En';
-$lang['ClientEmails.index.no_results'] = 'No tienes historial de email.';
+$lang['ClientEmails.index.no_results'] = 'No hay historial de correo electrónico.';
+$lang['ClientEmails.index.text_html'] = 'HTML';
+$lang['ClientEmails.index.text_text'] = 'Texto';
 

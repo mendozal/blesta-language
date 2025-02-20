@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -113,4 +113,6 @@ $lang['AdminMain.!success.file_added'] = 'Het bestand is succesvol toegevoegd.';
 $lang['AdminMain.!success.category_deleted'] = 'De categorie is succesvol verwijderd.';
 $lang['AdminMain.!success.category_updated'] = 'De categorie is succesvol bijgewerkt.';
 $lang['AdminMain.!success.category_added'] = 'De categorie is succesvol aangemaakt.';
+$lang['AdminMain.edit.text_full_path'] = 'OPMERKING: Bestanden moeten zich ergens in je uploadmap bevinden: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'OPMERKING: Bestanden moeten zich ergens in je uploadmap bevinden: <strong>%1$s</strong>.';
 

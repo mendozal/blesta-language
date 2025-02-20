@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,4 +73,5 @@ $lang['Contacts.getPermissionOptions._managed'] = 'Administrerede konti';
 $lang['Contacts.getPermissionOptions._invoice_delivery'] = 'Levering af fakturaer';
 $lang['Contacts.getPermissionOptions._credits'] = 'Krediteringer';
 $lang['Contacts.getPermissionOptions.client_quotations'] = 'Citater';
+$lang['Contacts.!error.number.required'] = 'Kontaktnummeret er påkrævet.';
 

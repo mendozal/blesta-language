@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,4 +59,6 @@ $lang['AdminCompanyGroups.!error.delete_failed'] = '%1$s adalah grup default dan
 $lang['AdminCompanyGroups.!success.delete_deleted'] = '%1$s berhasil dihapus!';
 $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s telah berhasil diedit!';
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s telah berhasil dibuat!';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Gerbang yang Diizinkan';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Gerbang yang Diizinkan';
 

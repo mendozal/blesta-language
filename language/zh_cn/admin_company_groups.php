@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,4 +59,6 @@ $lang['AdminCompanyGroups.!error.delete_failed'] = '%1$s 是默认组，不能�
 $lang['AdminCompanyGroups.!success.delete_deleted'] = '%1$s 已成功删除！';
 $lang['AdminCompanyGroups.!success.edit_updated'] = '%1$s 已被成功编辑！';
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s 已成功创建！';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = '允许的网关';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = '允许的网关';
 

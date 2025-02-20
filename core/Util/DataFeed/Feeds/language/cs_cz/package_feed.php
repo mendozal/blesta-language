@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,4 +16,6 @@ $lang['PackageFeed.getOptionFields.example_code_name'] = 'Zobrazení názvu bal�
 $lang['PackageFeed.getOptionFields.title_row_example_code'] = 'Příklad kódu';
 $lang['PackageFeed.description'] = 'Vrátí název, popis nebo cenu balíčku.';
 $lang['PackageFeed.name'] = 'Balíčky';
+$lang['PackageFeed.getOptionFields.example_code_clientlimit'] = 'Zobrazení množstevního limitu balíčku pro klienta:';
+$lang['PackageFeed.getOptionFields.example_code_quantity'] = 'Zobrazení skladového množství (množství) balení:';
 

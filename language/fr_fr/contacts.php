@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,4 +73,5 @@ $lang['Contacts.getPermissionOptions._managed'] = 'Comptes gérés';
 $lang['Contacts.getPermissionOptions._invoice_delivery'] = 'Livraison de la facture';
 $lang['Contacts.getPermissionOptions._credits'] = 'Crédits';
 $lang['Contacts.getPermissionOptions.client_quotations'] = 'Citations';
+$lang['Contacts.!error.number.required'] = 'Le numéro de contact est obligatoire.';
 

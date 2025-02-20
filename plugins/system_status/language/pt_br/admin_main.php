@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -42,4 +42,6 @@ $lang['AdminMain.index.health_poor'] = 'Há problemas sérios que afetam a capac
 $lang['AdminMain.index.health_fair'] = 'Há alguns problemas que afetam a capacidade do sistema de operar normalmente.';
 $lang['AdminMain.index.health_good'] = 'Em geral, o sistema está em boas condições, mas há alguns itens que podem exigir sua atenção.';
 $lang['AdminMain.index.health_excellent'] = 'O sistema está em boas condições e parece estar funcionando normalmente.';
+$lang['AdminMain.index.upload_dir_configure'] = 'Configurar?';
+$lang['AdminMain.index.upload_dir'] = 'O caminho do diretório de upload em suas configurações está dentro do diretório raiz da Web.  Ele deve ser colocado acima do diretório raiz da Web para garantir que nunca haja problemas com o acesso público a ele.';
 

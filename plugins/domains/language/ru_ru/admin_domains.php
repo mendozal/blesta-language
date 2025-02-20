@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -258,4 +258,18 @@ $lang['AdminDomains.!success.registrar_installed'] = 'Модуль был усп
 $lang['AdminDomains.!success.registrar_upgraded'] = 'Модуль был успешно обновлен.';
 $lang['AdminDomains.browse.heading_added'] = 'Дата добавления';
 $lang['AdminDomains.!success.domain_registrar_updated'] = 'Регистратор домена был обновлен!';
+$lang['AdminDomains.getTldActions.option_delete'] = 'Удалить ДВУ';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'Код EPP';
+$lang['AdminDomains.getTldActions.option_id_protection'] = 'Защита идентификатора';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = 'Переадресация электронной почты';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s не удалось обновить для следующих ДВУ: %2$s';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'Управление DNS';
+$lang['AdminDomains.!success.epp_code'] = 'Доступ к коду EPP был успешно обновлен!';
+$lang['AdminDomains.!success.id_protection'] = 'ID Protection был успешно обновлен!';
+$lang['AdminDomains.!success.email_forwarding'] = 'Переадресация электронной почты была успешно обновлена!';
+$lang['AdminDomains.!success.dns_management'] = 'Управление DNS было успешно обновлено!';
+$lang['AdminDomains.!success.delete_partial'] = 'Следующие ДВУ не могли быть удалены, поскольку они использовались: %1$s';
+$lang['AdminDomains.!success.delete'] = 'TLD были успешно удалены!';
+$lang['AdminDomains.!success.change_registration_date'] = 'Дата регистрации домена была обновлена!';
+$lang['AdminDomains.!success.change_expiration_date'] = 'Дата истечения срока действия домена была обновлена!';
 

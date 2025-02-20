@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -25,4 +25,8 @@ $lang['WebhooksWebhooks.getTypes.type_outgoing'] = '传出';
 $lang['WebhooksWebhooks.getMethods.get'] = '获取';
 $lang['WebhooksWebhooks.getMethods.post'] = '职位';
 $lang['WebhooksWebhooks.getMethods.json'] = 'JSON';
+$lang['WebhooksWebhooks.getMethods.put_json'] = '输入 JSON';
+$lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
+$lang['WebhooksWebhooks.getMethods.put'] = '输入';
+$lang['WebhooksWebhooks.!error.events[].exists'] = '所提供的事件不存在。';
 

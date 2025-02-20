@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -82,4 +82,5 @@ $lang['AppController.!error.invalid_csrf'] = '表格令牌无效。';
 $lang['AppController.!error.unauthorized_access'] = '您无权访问该资源';
 $lang['AppController.lang.dir'] = 'lt';
 $lang['AppController.dropzone.text'] = '点击此处上传文件或点击此处选择文件';
+$lang['AppController.!error.client_unauthorized_access'] = '您没有访问该资源的权限，请联系主要账户持有人申请访问权限';
 

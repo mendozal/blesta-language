@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -80,4 +80,6 @@ $lang['SupportManagerDepartments.!error.email.format'] = 'Digite um endereço de
 $lang['SupportManagerDepartments.!error.description.empty'] = 'Digite uma descrição.';
 $lang['SupportManagerDepartments.!error.name.empty'] = 'Digite um nome para esse departamento.';
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'ID da empresa inválido.';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = 'Uma ou mais prioridades são inválidas.';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Selecione pelo menos uma prioridade.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,4 +73,5 @@ $lang['Contacts.!error.contact_type.inv_address_to'] = 'Счета-фактур�
 $lang['Contacts.!error.contact_type.format'] = 'Неверный тип контакта.';
 $lang['Contacts.!error.user_id.exists'] = 'Неверный идентификатор пользователя.';
 $lang['Contacts.!error.client_id.exists'] = 'Неверный идентификатор клиента.';
+$lang['Contacts.!error.number.required'] = 'Контактный номер обязателен.';
 

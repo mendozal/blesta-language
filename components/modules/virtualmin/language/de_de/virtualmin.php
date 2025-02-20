@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -93,4 +93,10 @@ $lang['Virtualmin.module_row_plural'] = 'Server';
 $lang['Virtualmin.module_row'] = 'Server';
 $lang['Virtualmin.description'] = 'Virtualmin ist ein Domain-Hosting- und Website-Control-Panel, das die Möglichkeit bietet, viele Domains zu erstellen und zu verwalten. Es ist sowohl als Open-Source- als auch als kommerzielle Version erhältlich. Es basiert auf Webmin.';
 $lang['Virtualmin.name'] = 'VirtualMin';
+$lang['Virtualmin.!error.meta[domains_list].valid'] = 'Eine oder mehrere Paketdomänen sind ungültig.';
+$lang['Virtualmin.package_fields.tooltip.domains_list'] = 'Geben Sie eine CSV-Liste von Domains ein, die für die Bereitstellung von Subdomains zur Verfügung stehen sollen, z. B. "domain1.com,domain2.com,domain3.com".';
+$lang['Virtualmin.package_fields.domains_list'] = 'Liste der verfügbaren Domains';
+$lang['Virtualmin.package_fields.sub_domains_disable'] = 'Deaktivieren Sie';
+$lang['Virtualmin.package_fields.sub_domains_enable'] = 'Aktivieren Sie';
+$lang['Virtualmin.package_fields.sub_domains'] = 'Verkaufen von Sub-Domains aktivieren';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -82,4 +82,5 @@ $lang['AppController.graphs.label.total'] = 'Total';
 $lang['AppController.sreader.dropdown'] = 'Desplegable';
 $lang['AppController.sreader.navigation'] = 'Alternar navegación';
 $lang['AppController.dropzone.text'] = 'Suelte los archivos aquí para cargarlos o haga clic para seleccionarlos';
+$lang['AppController.!error.client_unauthorized_access'] = 'No tiene permiso para acceder a ese recurso. Póngase en contacto con el titular principal de la cuenta para solicitar acceso.';
 

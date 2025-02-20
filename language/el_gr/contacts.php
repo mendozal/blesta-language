@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,4 +73,5 @@ $lang['Contacts.!error.contact_type.format'] = 'Μη έγκυρος τύπος �
 $lang['Contacts.!error.user_id.exists'] = 'Μη έγκυρο αναγνωριστικό χρήστη.';
 $lang['Contacts.!error.client_id.exists'] = 'Μη έγκυρο αναγνωριστικό πελάτη.';
 $lang['Contacts.getPermissionOptions.client_quotations'] = 'Αποσπάσματα';
+$lang['Contacts.!error.number.required'] = 'Απαιτείται ο αριθμός επικοινωνίας.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -185,4 +185,10 @@ $lang['StaffGroups.permissions.admin_reports'] = 'Rapports';
 $lang['StaffGroups.permissions.admin_reports_customize'] = 'Personnaliser les rapports';
 $lang['StaffGroups.permissions.admin_tools_blacklist'] = 'Liste noire';
 $lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Supprimer la pièce jointe d\'un courriel';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'Supprimer le modèle HTML';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'Modifier le modèle HTML';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Ajouter un modèle HTML';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Modèles HTML';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Service d\'édition avancé';
+$lang['StaffGroups.permissions.admin_tools_provisioning'] = 'File d\'attente de service';
 

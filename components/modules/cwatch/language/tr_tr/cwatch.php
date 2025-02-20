@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -37,7 +37,6 @@ $lang['CWatch.tab_malware.malware'] = 'Kötü Amaçlı Yazılım Kontrolü';
 $lang['CWatch.tab_licenses.submit'] = 'Gönder';
 $lang['CWatch.tab_licenses.autoSsl'] = 'AutoSSL';
 $lang['CWatch.tab_licenses.initiateDns'] = 'İlk DNS';
-$lang['CWatch.tab_licenses.license_name'] = '1$s (%2$s)';
 $lang['CWatch.tab_licenses.current_license'] = 'Mevcut Lisans';
 $lang['CWatch.tab_licenses.cancel'] = 'İptal';
 $lang['CWatch.tab_licenses.confirm_deactivate'] = 'Bu lisansı devre dışı bırakmak istediğinizden emin misiniz?';
@@ -125,4 +124,5 @@ $lang['CWatch.module_row_plural.name'] = 'API Hesapları';
 $lang['CWatch.module_row.name'] = 'API Hesabı';
 $lang['CWatch.description'] = 'Giderek karmaşıklaşan hacker tehditlerine karşı web siteniz, web sunucularınız ve web uygulamalarınız için bir koruma aracı.';
 $lang['CWatch.name'] = 'CWatch';
+$lang['CWatch.tab_licenses.license_name'] = '%1$s (%2$s)';
 

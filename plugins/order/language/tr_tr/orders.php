@@ -4,12 +4,11 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Orders.view.recurring_term'] = '1$s %2$s @ %3$s';
 $lang['Orders.view.no_transactions'] = 'Bu siparişle ilişkili herhangi bir işlem yoktur.';
 $lang['Orders.view.no_services'] = 'Bu siparişle ilişkili herhangi bir hizmet bulunmamaktadır.';
 $lang['Orders.view.no_invoices'] = 'Bu siparişle ilişkili herhangi bir fatura bulunmamaktadır.';
@@ -47,4 +46,5 @@ $lang['Orders.index.heading_status'] = 'Durum';
 $lang['Orders.index.heading_order_number'] = 'Sipariş #';
 $lang['Orders.index.boxtitle_orders'] = 'Sipariş Geçmişi';
 $lang['Orders.!success.order_canceled'] = 'Sipariş başarıyla iptal edildi.';
+$lang['Orders.view.recurring_term'] = '%1$s %2$s @ %3$s';
 

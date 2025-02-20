@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,4 +14,10 @@ $lang['ServiceInvoices.!error.failed_attempts.format'] = 'Neúspěšné pokusy m
 $lang['ServiceInvoices.!error.invoice_id.exists'] = 'Neplatné ID faktury.';
 $lang['ServiceInvoices.!error.service_id.exists'] = 'Neplatné ID služby.';
 $lang['ServiceInvoices.!error.date_next_attempt.format'] = 'Datum dalšího pokusu musí být datum.';
+$lang['ServiceInvoices.getattempttypes.cancelation'] = 'Zrušení';
+$lang['ServiceInvoices.getattempttypes.unsuspension'] = 'Odstavení';
+$lang['ServiceInvoices.getattempttypes.suspension'] = 'Zavěšení';
+$lang['ServiceInvoices.getattempttypes.renewal'] = 'Obnova';
+$lang['ServiceInvoices.getattempttypes.provisioning'] = 'Provisioning';
+$lang['ServiceInvoices.!error.type.valid'] = 'Neplatný typ pokusu.';
 

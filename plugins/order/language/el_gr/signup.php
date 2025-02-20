@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -42,4 +42,11 @@ $lang['Signup.index.continue_btn'] = 'Συνεχίστε στο ταμείο';
 $lang['Signup.index.signup_btn'] = 'Δημιουργία λογαριασμού';
 $lang['Signup.!error.email.blacklist'] = 'Η παραγγελία σας δεν μπορεί να διεκπεραιωθεί αυτή τη στιγμή.';
 $lang['Signup.index.field_recovery_email'] = 'Email ανάκτησης (προαιρετικό)';
+$lang['Signup.otp.field_submit'] = 'Σύνδεση';
+$lang['Signup.otp.field_otp'] = 'Κωδικός πρόσβασης μίας χρήσης';
+$lang['Signup.otp.login_heading'] = 'Σύνδεση';
+$lang['Signup.otp.description'] = 'Παρακαλώ εισάγετε τον κωδικό πρόσβασης μιας χρήσης.';
+$lang['Signup.otp.page_title'] = 'Σύνδεση';
+$lang['Signup.index.field_agree_tos'] = 'Έχω διαβάσει και συμφωνώ με τους <a href="%1$s" target="_blank">Όρους και Προϋποθέσεις</a>';
+$lang['Signup.!error.invalid_agree_tos'] = 'Πρέπει να επιβεβαιώσετε ότι συμφωνείτε με τους όρους και τις προϋποθέσεις.';
 

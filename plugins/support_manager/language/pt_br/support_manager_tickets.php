@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -63,4 +63,8 @@ $lang['SupportManagerTickets.!error.contact_id.exists'] = 'O contato selecionado
 $lang['SupportManagerTickets.!error.staff_id.exists'] = 'ID de equipe inválido.';
 $lang['SupportManagerTickets.!error.department_id.exists'] = 'Selecione um departamento válido.';
 $lang['SupportManagerTickets.!error.code.format'] = 'O código do tíquete deve conter apenas dígitos.';
+$lang['SupportManagerTickets.!error.priority.valid'] = 'Selecione uma prioridade válida para esse departamento.';
+$lang['SupportManagerTickets.!error.contacts.valid'] = 'Pelo menos um dos contatos do tíquete é inválido.';
+$lang['SupportManagerTickets.!error.recipients.valid'] = 'Pelo menos um dos destinatários do tíquete é inválido.';
+$lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Pelo menos um dos destinatários do tíquete está duplicado.';
 

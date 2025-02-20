@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -50,4 +50,9 @@ $lang['Logs.!error.from_address.empty'] = 'Hilang dari alamat yang dituju.';
 $lang['Logs.!error.to_address.empty'] = 'Tidak ada alamat yang dituju.';
 $lang['Logs.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
 $lang['Logs.!error.deletelog_datetime'] = 'Format tanggal tidak valid.';
+$lang['Logs.!error.new_service.format'] = 'Layanan baru harus berupa array.';
+$lang['Logs.!error.old_service.format'] = 'Layanan lama harus berupa array.';
+$lang['Logs.!error.transactions.exists'] = 'Satu atau lebih transaksi tidak ada.';
+$lang['Logs.!error.transaction_id.format'] = 'Transaksi harus berupa array.';
+$lang['Logs.!error.service_id.exists'] = 'ID layanan tidak valid.';
 

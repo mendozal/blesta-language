@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -19,7 +19,6 @@ $lang['AdminStaff.schedule_list.heading_end_time'] = 'Bitiş Zamanı';
 $lang['AdminStaff.schedule_list.heading_start_time'] = 'Başlangıç Zamanı';
 $lang['AdminStaff.schedule_list.heading_day'] = 'Gün';
 $lang['AdminStaff.schedule_list.heading_schedule'] = 'Program';
-$lang['AdminStaff.staff.name'] = '1$s %2$s';
 $lang['AdminStaff.edit.field_editsubmit'] = 'Personeli Düzenle';
 $lang['AdminStaff.edit.text_availabledepartments'] = 'Mevcut Departmanlar';
 $lang['AdminStaff.edit.text_assigneddepartments'] = 'Atanan Departmanlar';
@@ -79,4 +78,5 @@ $lang['AdminStaff.!tooltip.all_day'] = 'Personelin tüm gün müsait olması iç
 $lang['AdminStaff.!success.staff_deleted'] = 'Personel üyesi başarıyla silindi.';
 $lang['AdminStaff.!success.staff_updated'] = 'Personel üyesi başarıyla güncellendi.';
 $lang['AdminStaff.!success.staff_added'] = 'Personel üyesi başarıyla eklendi.';
+$lang['AdminStaff.staff.name'] = '%1$s %2$s';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pt_br
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,4 +73,5 @@ $lang['Contacts.!error.contact_type.inv_address_to'] = 'As faturas são definida
 $lang['Contacts.!error.contact_type.format'] = 'Tipo de contato inválido.';
 $lang['Contacts.!error.user_id.exists'] = 'ID de usuário inválido.';
 $lang['Contacts.!error.client_id.exists'] = 'ID de cliente inválido.';
+$lang['Contacts.!error.number.required'] = 'O número de contato é obrigatório.';
 

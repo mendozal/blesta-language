@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -102,7 +102,7 @@ $lang['AdminCompanyGeneral.!success.humanverification_updated'] = 'Setările de 
 $lang['AdminCompanyGeneral.!success.smartsearch_updated'] = 'Setările Smart Search au fost actualizate cu succes.';
 $lang['AdminCompanyGeneral.!success.marketing_updated'] = 'Setările de marketing au fost actualizate cu succes.';
 $lang['AdminCompanyGeneral.!success.language_uninstalled'] = 'Limba %1$s a fost dezinstalată cu succes.';
-$lang['AdminCompanyGeneral.!success.language_installed'] = 'Limba %1$s a fost instalată cu succes.';
+$lang['AdminCompanyGeneral.!success.language_installed'] = 'Limba %1$s a fost instalată cu succes. Nu uitați să actualizați e-mailurile, pachetele și grupurile de pachete cu conținut pentru noua limbă.';
 $lang['AdminCompanyGeneral.!success.contact_type_deleted'] = 'Tipul de contact "%1$s" a fost șters cu succes.';
 $lang['AdminCompanyGeneral.!success.contact_type_updated'] = 'Tipul de contact "%1$s" a fost actualizat cu succes.';
 $lang['AdminCompanyGeneral.!success.contact_type_added'] = 'Tipul de contact "%1$s" a fost adăugat cu succes.';

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -56,4 +56,7 @@ $lang['AdminMain.overview.statistic.services_active'] = '主动服务';
 $lang['AdminMain.overview.statistic.clients_active'] = '活跃客户';
 $lang['AdminMain.index.boxtitle_overview'] = '系统概述';
 $lang['AdminMain.!success.options_updated'] = '系统概述设置已成功更新！';
+$lang['AdminMain.date_range.day'] = '1 天';
+$lang['AdminMain.date_range.month'] = '本月';
+$lang['AdminMain.date_range.ytd'] = '年度至今';
 

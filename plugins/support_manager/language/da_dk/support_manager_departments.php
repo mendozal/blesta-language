@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -80,4 +80,6 @@ $lang['SupportManagerDepartments.ticket_intervals.days'] = '%1$s Dage';
 $lang['SupportManagerDepartments.reminder_intervals.hour'] = '1 time';
 $lang['SupportManagerDepartments.reminder_intervals.hours'] = '%1$s Timer';
 $lang['SupportManagerDepartments.reminder_intervals.minutes'] = '%1$s minutter';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = 'En eller flere prioriteter er ugyldige.';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Vælg mindst én prioritet.';
 

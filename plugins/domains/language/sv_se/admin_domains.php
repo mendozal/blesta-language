@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -258,4 +258,18 @@ $lang['AdminDomains.!success.registrar_installed'] = 'Modulen installerades fram
 $lang['AdminDomains.!success.registrar_upgraded'] = 'Modulen uppgraderades framgångsrikt.';
 $lang['AdminDomains.browse.heading_added'] = 'Tillagt datum';
 $lang['AdminDomains.!success.domain_registrar_updated'] = 'Domänregistratorn har uppdaterats!';
+$lang['AdminDomains.getTldActions.option_delete'] = 'Ta bort toppdomäner';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'EPP-kod';
+$lang['AdminDomains.getTldActions.option_id_protection'] = 'ID-skydd';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = 'Vidarebefordran av e-post';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'DNS-hantering';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s kunde inte uppdateras för följande toppdomäner: %2$s';
+$lang['AdminDomains.!success.epp_code'] = 'EPP-kodåtkomst har uppdaterats framgångsrikt!';
+$lang['AdminDomains.!success.id_protection'] = 'ID-skydd har uppdaterats framgångsrikt!';
+$lang['AdminDomains.!success.email_forwarding'] = 'E-post vidarebefordran uppdaterades framgångsrikt!';
+$lang['AdminDomains.!success.dns_management'] = 'DNS-hanteringen uppdaterades framgångsrikt!';
+$lang['AdminDomains.!success.delete_partial'] = 'Följande toppdomäner kunde inte raderas eftersom de var i bruk: %1$s';
+$lang['AdminDomains.!success.delete'] = 'TLD:n har raderats framgångsrikt!';
+$lang['AdminDomains.!success.change_registration_date'] = 'Registreringsdatumet för domänen har uppdaterats!';
+$lang['AdminDomains.!success.change_expiration_date'] = 'Domänens utgångsdatum har uppdaterats!';
 

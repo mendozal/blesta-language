@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -167,4 +167,5 @@ $lang['ClientServices.!error.invoices_renew_service'] = 'Tjänsten kan inte för
 $lang['ClientServices.!error.invoices_change_term'] = 'Villkoret kan inte ändras förrän alla fakturor som innehåller denna tjänst har betalats.';
 $lang['ClientServices.!error.invoices_manage_options'] = 'De konfigurerbara alternativen kan inte ändras förrän alla fakturor som innehåller denna tjänst har betalats.';
 $lang['ClientServices.!error.password_mismatch'] = 'Lösenordet stämmer inte överens med ditt inloggningslösenord.';
+$lang['ClientServices.manage.button_manage_parent'] = 'Hantera föräldratjänster';
 

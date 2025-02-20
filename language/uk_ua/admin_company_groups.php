@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,4 +59,6 @@ $lang['AdminCompanyGroups.!error.delete_failed'] = '%1$s є групою за з
 $lang['AdminCompanyGroups.!success.delete_deleted'] = '%1$s успішно видалено!';
 $lang['AdminCompanyGroups.!success.edit_updated'] = 'Файл %1$s успішно відредаговано!';
 $lang['AdminCompanyGroups.!success.add_created'] = '%1$s успішно створено!';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Дозволені шлюзи';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Дозволені шлюзи';
 

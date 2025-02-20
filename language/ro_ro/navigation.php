@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -122,4 +122,6 @@ $lang['Navigation.getprimary.nav_home'] = 'Acasă';
 $lang['Navigation.!error.parent_id.valid'] = 'ID-ul elementului de navigare părinte invalid';
 $lang['Navigation.!error.order.valid'] = 'Indicele comenzii trebuie să fie o valoare numerică';
 $lang['Navigation.!error.action_id.valid'] = 'ID de acțiune invalid';
+$lang['Navigation.getcompany.nav_html_templates'] = 'Șabloane HTML';
+$lang['Navigation.getprimary.nav_tools_provisioning'] = 'Coada de servicii';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -56,4 +56,7 @@ $lang['AdminMain.graph_line_name.active'] = 'Actif';
 $lang['AdminMain.graph_line_name.canceled'] = 'Annulé';
 $lang['AdminMain.graph_line_name.suspended'] = 'Suspendu';
 $lang['AdminMain.graph_line_name.new'] = 'Nouveau';
+$lang['AdminMain.date_range.day'] = '1 jour';
+$lang['AdminMain.date_range.month'] = 'Mois en cours';
+$lang['AdminMain.date_range.ytd'] = 'Depuis le début de l\'année';
 

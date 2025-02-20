@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -82,4 +82,5 @@ $lang['AppController.!error.invalid_csrf'] = 'Το σύμβολο της φόρ�
 $lang['AppController.!error.unauthorized_access'] = 'Δεν είστε εξουσιοδοτημένοι να έχετε πρόσβαση σε αυτόν τον πόρο';
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Αφήστε αρχεία εδώ για να τα ανεβάσετε ή κάντε κλικ για να επιλέξετε αρχεία';
+$lang['AppController.!error.client_unauthorized_access'] = 'Δεν έχετε δικαίωμα πρόσβασης σε αυτόν τον πόρο, παρακαλούμε επικοινωνήστε με τον κύριο κάτοχο του λογαριασμού για να ζητήσετε πρόσβαση.';
 

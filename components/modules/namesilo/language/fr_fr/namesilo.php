@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -229,4 +229,19 @@ $lang['Namesilo.!error.CA.CIRALegalType.other'] = 'Seuls les types juridiques in
 $lang['Namesilo.!tooltip.upgrades_use_renewal'] = 'Lorsque cette option est activée, la mise à niveau vers ce paquet utilisera les prix de renouvellement s\'ils sont définis. Le prix normal sera utilisé si ce paramètre est désactivé.';
 $lang['Namesilo.tab_whois.copy_registrant_info'] = 'Copie des informations sur le titulaire du registre';
 $lang['Namesilo.dnsrecord.distance'] = 'Priorité';
+$lang['Namesilo.!success.contact_deleted'] = 'Le contact a été supprimé avec succès.';
+$lang['Namesilo.tab_edit_contact.field_submit'] = 'Sauvegarder le contact';
+$lang['Namesilo.tab_edit_contact.field_back'] = 'Retour';
+$lang['Namesilo.tab_add_contact.title'] = 'Ajouter un contact';
+$lang['Namesilo.tab_edit_contact.title'] = 'Modifier le contact';
+$lang['Namesilo.tab_manage_contacts.field_submit'] = 'Définir le contact par défaut du titulaire';
+$lang['Namesilo.tab_manage_contacts.field_sync'] = 'Extraire des contacts du registre';
+$lang['Namesilo.tab_manage_contacts.option_delete'] = 'Supprimer';
+$lang['Namesilo.tab_manage_contacts.option_edit'] = 'Editer';
+$lang['Namesilo.tab_manage_contacts.option_add'] = 'Ajouter un contact';
+$lang['Namesilo.tab_manage_contacts.heading_options'] = 'Options';
+$lang['Namesilo.tab_manage_contacts.heading_name'] = 'Nom du contact';
+$lang['Namesilo.tab_manage_contacts.title'] = 'Gérer les contacts';
+$lang['Namesilo.tab_whois.section_technical'] = 'Technique';
+$lang['Namesilo.tab_whois.section_administrative'] = 'Administratif';
 

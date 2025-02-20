@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -185,4 +185,10 @@ $lang['StaffGroups.permissions.admin_reports'] = 'Rapporter';
 $lang['StaffGroups.permissions.admin_reports_customize'] = 'Tilpas rapporter';
 $lang['StaffGroups.permissions.admin_tools_blacklist'] = 'Sort liste';
 $lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Slet vedhæftet fil til e-mail';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'Slet HTML-skabelon';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'Rediger HTML-skabelon';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Tilføj HTML-skabelon';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML-skabeloner';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Avanceret redigeringstjeneste';
+$lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Service-kø';
 

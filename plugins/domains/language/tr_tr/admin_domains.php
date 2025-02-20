@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -36,12 +36,8 @@ $lang['AdminDomains.getPeriods.year'] = 'Yıl';
 $lang['AdminDomains.getPeriods.month'] = 'Ay';
 $lang['AdminDomains.getPeriods.week'] = 'Hafta';
 $lang['AdminDomains.getPeriods.day'] = 'Gün';
-$lang['AdminDomains.getDays.text_days'] = '1$s Gün';
-$lang['AdminDomains.getDays.text_day'] = '1$s Günü';
 $lang['AdminDomains.getDays.same_day'] = 'Aynı Gün';
 $lang['AdminDomains.import.text_terms_notice'] = 'En az bir dönem seçilmelidir.';
-$lang['AdminDomains.import.text_years'] = '1$s Yıl';
-$lang['AdminDomains.import.text_year'] = '1$s Yıl';
 $lang['AdminDomains.import.text_configuration'] = 'Ayarları Yapılandır';
 $lang['AdminDomains.import.text_tld_settings'] = 'TLD fiyatlandırma işaretlemeleri, yuvarlak vb. TLD Senkronizasyon ayarlarına göre ayarlanacaktır.';
 $lang['AdminDomains.import.text_install_modules'] = 'Modülleri Kurun';
@@ -258,4 +254,22 @@ $lang['AdminDomains.!success.configuration_updated'] = 'Etki Alanı Yöneticisi 
 $lang['AdminDomains.!success.registrar_uninstalled'] = 'Modül başarıyla kaldırıldı.';
 $lang['AdminDomains.!success.registrar_installed'] = 'Modül başarıyla yüklendi.';
 $lang['AdminDomains.!success.registrar_upgraded'] = 'Modül başarıyla yükseltildi.';
+$lang['AdminDomains.getDays.text_days'] = '%1$s Günler';
+$lang['AdminDomains.getDays.text_day'] = '%1$s Gün';
+$lang['AdminDomains.import.text_years'] = '%1$s Yıllar';
+$lang['AdminDomains.import.text_year'] = '%1$s Yıl';
+$lang['AdminDomains.getTldActions.option_delete'] = 'TLD\'leri silme';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'EPP Kodu';
+$lang['AdminDomains.getTldActions.option_id_protection'] = 'Kimlik Koruması';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = 'E-posta Yönlendirme';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'DNS Yönetimi';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s aşağıdaki TLD\'ler için güncellenemedi: %2$s';
+$lang['AdminDomains.!success.epp_code'] = 'EPP Kod erişimi başarıyla güncellendi!';
+$lang['AdminDomains.!success.id_protection'] = 'Kimlik Koruması başarıyla güncellendi!';
+$lang['AdminDomains.!success.email_forwarding'] = 'E-posta Yönlendirme başarıyla güncellendi!';
+$lang['AdminDomains.!success.dns_management'] = 'DNS Yönetimi başarıyla güncellendi!';
+$lang['AdminDomains.!success.delete_partial'] = 'Aşağıdaki TLD\'ler kullanımda oldukları için silinememiştir: %1$s';
+$lang['AdminDomains.!success.delete'] = 'TLD başarıyla silindi!';
+$lang['AdminDomains.!success.change_registration_date'] = 'Alan adı kayıt tarihi güncellendi!';
+$lang['AdminDomains.!success.change_expiration_date'] = 'Alan adı son kullanma tarihi güncellendi!';
 

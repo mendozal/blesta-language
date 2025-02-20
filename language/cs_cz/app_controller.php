@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -82,4 +82,5 @@ $lang['AppController.!error.invalid_csrf'] = 'Token formuláře je neplatný.';
 $lang['AppController.!error.unauthorized_access'] = 'Nejste oprávněni k přístupu k tomuto zdroji';
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Zde můžete nahrát soubory nebo kliknutím na tlačítko vybrat soubory';
+$lang['AppController.!error.client_unauthorized_access'] = 'Nemáte oprávnění k přístupu k tomuto zdroji, obraťte se prosím na držitele primárního účtu a požádejte o přístup.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -42,4 +42,11 @@ $lang['Signup.!notice.email_verification'] = 'È stato inviato un messaggio per 
 $lang['Signup.!notice.force_email_usernames'] = 'Il nome utente sarà lo stesso del vostro indirizzo e-mail.';
 $lang['Signup.!error.not_client_owner'] = 'Per continuare, è necessario aver effettuato l\'accesso come proprietario del cliente.';
 $lang['Signup.!error.captcha.invalid'] = 'Il captcha inserito non è valido. Si prega di riprovare.';
+$lang['Signup.otp.field_submit'] = 'Accedi';
+$lang['Signup.otp.field_otp'] = 'Password una tantum';
+$lang['Signup.otp.login_heading'] = 'Accedi';
+$lang['Signup.otp.description'] = 'Inserire la password unica.';
+$lang['Signup.otp.page_title'] = 'Accedi';
+$lang['Signup.index.field_agree_tos'] = 'Ho letto e accetto i <a href="%1$s" target="_blank">Termini e Condizioni</a>';
+$lang['Signup.!error.invalid_agree_tos'] = 'L\'utente deve dichiarare di accettare i termini e le condizioni.';
 

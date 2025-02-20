@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,5 @@ $lang['Automation.task.cleanup_logs.logs_module_deleted'] = '%1$s gamla modullog
 $lang['Automation.task.cleanup_logs.logs_gateway_deleted'] = '%1$s gamla Gateway-loggar har raderats.';
 $lang['Automation.task.cleanup_logs.completed'] = 'Uppgiften att rensa loggar har slutförts.';
 $lang['Automation.task.cleanup_logs.attempt'] = 'Försöker rensa upp bland gamla loggar.';
+$lang['Automation.task.cleanup_logs.logs_service_changes_deleted'] = '%1$s gamla Service Changes-loggar har tagits bort.';
 

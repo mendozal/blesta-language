@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -122,4 +122,6 @@ $lang['Navigation.getprimary.nav_home'] = 'Strona główna';
 $lang['Navigation.!error.parent_id.valid'] = 'Nieprawidłowy identyfikator elementu nawigacji nadrzędnej';
 $lang['Navigation.!error.order.valid'] = 'Indeks zamówienia musi być wartością liczbową';
 $lang['Navigation.!error.action_id.valid'] = 'Nieprawidłowy identyfikator akcji';
+$lang['Navigation.getcompany.nav_html_templates'] = 'Szablony HTML';
+$lang['Navigation.getprimary.nav_tools_provisioning'] = 'Kolejka usług';
 

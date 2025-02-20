@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.edit.field_theme_info_button_color'] = 'Colores de los
 $lang['AdminCompanyThemes.edit.field_theme_warning_button_color'] = 'Colores de los botones de advertencia';
 $lang['AdminCompanyThemes.edit.field_theme_danger_button_color'] = 'Colores de los botones de peligro';
 $lang['AdminCompanyThemes.edit.field_theme_light_button_color'] = 'Colores de los botones de luz';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'CSS personalizado';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'CSS personalizado';
 

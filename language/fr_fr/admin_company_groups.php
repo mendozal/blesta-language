@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,4 +59,6 @@ $lang['AdminCompanyGroups.edit.field_delivery_methods'] = 'Méthodes de livraiso
 $lang['AdminCompanyGroups.edit.field_company_settings'] = 'Utiliser les paramètres de l\'entreprise (décocher pour spécifier ci-dessous)';
 $lang['AdminCompanyGroups.edit.field_force_email_usernames'] = 'Utiliser les adresses électroniques comme noms d\'utilisateur';
 $lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Groupe d\'édition';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Passerelles autorisées';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Passerelles autorisées';
 

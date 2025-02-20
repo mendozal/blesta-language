@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,4 +27,8 @@ $lang['PaypalPaymentsStandard.page_style'] = 'Naam paginastijl';
 $lang['PaypalPaymentsStandard.account_id'] = 'PayPal-rekening e-mail';
 $lang['PaypalPaymentsStandard.description'] = 'PayPal Payments Standard is een van de gemakkelijkste manieren om veilig online betalingen met creditcard en PayPal te accepteren.';
 $lang['PaypalPaymentsStandard.name'] = 'PayPal-betalingen standaard';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = 'Er zijn dubbele e-mails gevonden in je mappinggegevens. Verwijder de dubbele e-mails en probeer het opnieuw.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = 'Er is een ongeldige regel gevonden in uw mappinggegevens. Controleer of het e-mailadres en de klant-ID geldig zijn en probeer het opnieuw.';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Bedoeld voor gebruik met PayPal Abonnementen die buiten Blesta zijn aangemaakt. Map payer_email naar interne Client ID, 1 per regel. Bijvoorbeeld: email,client-id';
+$lang['PaypalPaymentsStandard.payment_mapping'] = 'Betaling in kaart brengen';
 

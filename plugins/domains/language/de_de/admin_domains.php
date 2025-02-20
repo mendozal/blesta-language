@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -258,4 +258,18 @@ $lang['AdminDomains.!success.registrar_installed'] = 'Das Modul wurde erfolgreic
 $lang['AdminDomains.!success.registrar_upgraded'] = 'Das Modul wurde erfolgreich aktualisiert.';
 $lang['AdminDomains.browse.heading_added'] = 'Hinzugefügtes Datum';
 $lang['AdminDomains.!success.domain_registrar_updated'] = 'Die Domainregistrierungsstelle wurde aktualisiert!';
+$lang['AdminDomains.getTldActions.option_delete'] = 'TLDs löschen';
+$lang['AdminDomains.getTldActions.option_epp_code'] = 'EPP-Code';
+$lang['AdminDomains.getTldActions.option_id_protection'] = 'ID-Schutz';
+$lang['AdminDomains.getTldActions.option_email_forwarding'] = 'E-Mail-Weiterleitung';
+$lang['AdminDomains.getTldActions.option_dns_management'] = 'DNS-Verwaltung';
+$lang['AdminDomains.!warning.action_partial'] = '%1$s konnte für folgende TLDs nicht aktualisiert werden: %2$s';
+$lang['AdminDomains.!success.epp_code'] = 'Der EPP-Code-Zugang wurde erfolgreich aktualisiert!';
+$lang['AdminDomains.!success.id_protection'] = 'ID Protection wurde erfolgreich aktualisiert!';
+$lang['AdminDomains.!success.email_forwarding'] = 'Die E-Mail-Weiterleitung wurde erfolgreich aktualisiert!';
+$lang['AdminDomains.!success.dns_management'] = 'DNS Management wurde erfolgreich aktualisiert!';
+$lang['AdminDomains.!success.delete_partial'] = 'Die folgenden TLDs konnten nicht gelöscht werden, da sie in Gebrauch waren: %1$s';
+$lang['AdminDomains.!success.delete'] = 'Die TLD wurden erfolgreich gelöscht!';
+$lang['AdminDomains.!success.change_registration_date'] = 'Das Datum der Domainregistrierung wurde aktualisiert!';
+$lang['AdminDomains.!success.change_expiration_date'] = 'Das Ablaufdatum der Domain wurde aktualisiert!';
 

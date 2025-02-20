@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -113,4 +113,6 @@ $lang['AdminMain.!success.file_added'] = 'Filen har framgångsrikt lagts till.';
 $lang['AdminMain.!success.category_deleted'] = 'Kategorin har raderats framgångsrikt.';
 $lang['AdminMain.!success.category_updated'] = 'Kategorin har uppdaterats framgångsrikt.';
 $lang['AdminMain.!success.category_added'] = 'Kategorin har skapats framgångsrikt.';
+$lang['AdminMain.edit.text_full_path'] = 'OBS: Filerna måste ligga någonstans i din uploads-katalog: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'OBS: Filerna måste ligga någonstans i din uploads-katalog: <strong>%1$s</strong>.';
 

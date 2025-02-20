@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -185,4 +185,10 @@ $lang['StaffGroups.!error.name.length'] = 'Довжина імені не мож
 $lang['StaffGroups.!error.name.empty'] = 'Будь ласка, введіть ім\'я.';
 $lang['StaffGroups.!error.company_id.exists'] = 'Невірний ідентифікатор компанії.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Невірний ідентифікатор групи персоналу.';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'Видалити HTML-шаблон';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'Редагувати HTML-шаблон';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Додати HTML-шаблон';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'HTML-шаблони';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Розширений сервіс редагування';
+$lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Черга на обслуговування';
 

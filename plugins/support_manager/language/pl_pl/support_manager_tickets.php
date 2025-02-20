@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -63,4 +63,8 @@ $lang['SupportManagerTickets.!error.contact_id.exists'] = 'Kontakt wybrany dla t
 $lang['SupportManagerTickets.!error.staff_id.exists'] = 'Nieprawidłowy identyfikator pracownika.';
 $lang['SupportManagerTickets.!error.department_id.exists'] = 'Wybierz odpowiedni dział.';
 $lang['SupportManagerTickets.!error.code.format'] = 'Kod biletu musi zawierać wyłącznie cyfry.';
+$lang['SupportManagerTickets.!error.priority.valid'] = 'Wybierz prawidłowy priorytet dla tego działu.';
+$lang['SupportManagerTickets.!error.contacts.valid'] = 'Co najmniej jeden z kontaktów biletu jest nieprawidłowy.';
+$lang['SupportManagerTickets.!error.recipients.valid'] = 'Co najmniej jeden z odbiorców biletu jest nieważny.';
+$lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Co najmniej jeden z odbiorców biletów jest zduplikowany.';
 

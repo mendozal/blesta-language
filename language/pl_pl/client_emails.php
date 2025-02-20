@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,4 +18,6 @@ $lang['ClientEmails.index.heading_subject'] = 'Przedmiot';
 $lang['ClientEmails.index.heading_date'] = 'Data';
 $lang['ClientEmails.index.boxtitle_emails'] = 'Historia wiadomości e-mail';
 $lang['ClientEmails.index.page_title'] = 'Historia wiadomości e-mail klienta #%1$s';
+$lang['ClientEmails.index.text_html'] = 'HTML';
+$lang['ClientEmails.index.text_text'] = 'Tekst';
 

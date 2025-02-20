@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -82,4 +82,5 @@ $lang['AppController.!success.license_updated'] = 'Lisensi Anda berhasil divalid
 $lang['AppController.!error.invalid_csrf'] = 'Token formulir tidak valid.';
 $lang['AppController.!error.unauthorized_access'] = 'Anda tidak berwenang untuk mengakses sumber daya tersebut';
 $lang['AppController.lang.dir'] = 'ltr';
+$lang['AppController.!error.client_unauthorized_access'] = 'Anda tidak memiliki izin untuk mengakses sumber daya tersebut, silakan hubungi pemegang akun utama untuk meminta akses';
 

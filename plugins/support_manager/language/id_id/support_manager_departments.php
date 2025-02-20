@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -80,4 +80,6 @@ $lang['SupportManagerDepartments.!error.email.format'] = 'Masukkan alamat email 
 $lang['SupportManagerDepartments.!error.description.empty'] = 'Silakan masukkan deskripsi.';
 $lang['SupportManagerDepartments.!error.name.empty'] = 'Masukkan nama untuk departemen ini.';
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = 'Satu atau beberapa prioritas tidak valid.';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Pilih setidaknya satu prioritas.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -27,4 +27,8 @@ $lang['PaypalPaymentsStandard.pay_type_both'] = 'Pagos únicos y de suscripción
 $lang['PaypalPaymentsStandard.buildprocess.submit'] = 'Pagar con PayPal';
 $lang['PaypalPaymentsStandard.!error.account_id.valid'] = 'Debe introducir una dirección de email válida.';
 $lang['PaypalPaymentsStandard.!error.dev_mode.valid'] = 'El modo desarrollador debe ser "true" si se indica.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.duplicated'] = 'Se han encontrado correos electrónicos duplicados en sus datos cartográficos, elimine los duplicados e inténtelo de nuevo.';
+$lang['PaypalPaymentsStandard.!error.payment_mapping.valid'] = 'Se ha encontrado una línea no válida en sus datos de mapeo, compruebe si la dirección de correo electrónico y el ID de cliente son válidos e inténtelo de nuevo.';
+$lang['PaypalPaymentsStandard.payment_mapping_note'] = 'Diseñado para su uso con suscripciones de PayPal creadas fuera de Blesta. Asigne payer_email al ID de cliente interno, 1 por línea. Por ejemplo: email,client-id';
+$lang['PaypalPaymentsStandard.payment_mapping'] = 'Asignación de pagos';
 

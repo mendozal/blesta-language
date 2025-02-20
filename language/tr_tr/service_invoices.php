@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -14,4 +14,10 @@ $lang['ServiceInvoices.!error.maximum_attempts.format'] = 'Maksimum deneme sayı
 $lang['ServiceInvoices.!error.failed_attempts.format'] = 'Başarısız denemeler bir sayı olmalıdır.';
 $lang['ServiceInvoices.!error.invoice_id.exists'] = 'Geçersiz fatura kimliği.';
 $lang['ServiceInvoices.!error.service_id.exists'] = 'Geçersiz hizmet kimliği.';
+$lang['ServiceInvoices.getattempttypes.cancelation'] = 'İptal';
+$lang['ServiceInvoices.getattempttypes.unsuspension'] = 'Askıya Alma';
+$lang['ServiceInvoices.getattempttypes.suspension'] = 'Süspansiyon';
+$lang['ServiceInvoices.getattempttypes.renewal'] = 'Yenileme';
+$lang['ServiceInvoices.getattempttypes.provisioning'] = 'Sağlama';
+$lang['ServiceInvoices.!error.type.valid'] = 'Geçersiz girişim türü.';
 

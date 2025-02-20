@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -175,4 +175,9 @@ $lang['AdminBilling.!success.services_pushed'] = 'Vybrané služby byly úspěš
 $lang['AdminBilling.!success.services_scheduled_uncancel'] = 'U vybraných služeb již není plánováno jejich zrušení.';
 $lang['AdminBilling.!success.services_scheduled_cancel'] = 'Vybrané služby byly úspěšně naplánovány ke zrušení.';
 $lang['AdminBilling.!success.invoices_marked_printed'] = 'Vybrané faktury byly označeny jako vytištěné.';
+$lang['AdminBilling.services.action.field_suspension_reason'] = 'Důvod pozastavení:';
+$lang['AdminBilling.services.action.unsuspend'] = 'Odpojení';
+$lang['AdminBilling.services.action.suspend'] = 'Pozastavit';
+$lang['AdminBilling.!success.services_unsuspended'] = 'Vybrané služby byly úspěšně odpojeny.';
+$lang['AdminBilling.!success.services_suspended'] = 'Vybrané služby byly úspěšně pozastaveny.';
 

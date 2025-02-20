@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -42,4 +42,11 @@ $lang['Signup.!notice.email_verification'] = 'Sebuah pesan telah dikirim untuk m
 $lang['Signup.!notice.force_email_usernames'] = 'Nama pengguna Anda akan sama dengan alamat email Anda.';
 $lang['Signup.!error.not_client_owner'] = 'Anda harus masuk sebagai pemilik klien untuk melanjutkan.';
 $lang['Signup.!error.captcha.invalid'] = 'Captcha yang dimasukkan tidak valid. Silakan coba lagi.';
+$lang['Signup.otp.field_submit'] = 'Masuk';
+$lang['Signup.otp.field_otp'] = 'Kata Sandi Sekali Pakai';
+$lang['Signup.otp.login_heading'] = 'Masuk';
+$lang['Signup.otp.description'] = 'Masukkan Kata Sandi Sekali Pakai Anda.';
+$lang['Signup.otp.page_title'] = 'Masuk';
+$lang['Signup.index.field_agree_tos'] = 'Saya telah membaca dan menyetujui <a href="%1$s" target="_blank">Syarat dan Ketentuan</a>';
+$lang['Signup.!error.invalid_agree_tos'] = 'Anda harus menyatakan persetujuan Anda terhadap syarat dan ketentuan.';
 

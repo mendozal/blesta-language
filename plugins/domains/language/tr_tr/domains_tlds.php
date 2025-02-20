@@ -4,13 +4,12 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['DomainsTlds.getTldFields.group'] = 'Grup';
-$lang['DomainsTlds.!error.feature.unsupported'] = '1$s özelliği seçilen kayıt memuru modülü tarafından desteklenmiyor.';
 $lang['DomainsTlds.!error.tld.supported'] = 'Sağlanan TLD, seçilen kayıt kuruluşu modülü tarafından desteklenmiyor.';
 $lang['DomainsTlds.!error.package_pricing.service'] = 'Fiyatlandırma devre dışı bırakılamadı çünkü şu anda bir hizmet bunu kullanıyor.';
 $lang['DomainsTlds.!error.package_pricing.count'] = 'Fiyatlandırma devre dışı bırakılamaz, TLD en az bir fiyatlandırmaya sahip olmalıdır.';
@@ -27,4 +26,5 @@ $lang['DomainsTlds.!error.tld.length'] = 'TLD en az 3 karakter uzunluğunda olma
 $lang['DomainsTlds.!error.tld.not_exists'] = 'TLD şirkette mevcut değildir.';
 $lang['DomainsTlds.!error.tld.exists'] = 'TLD şirkette zaten mevcuttur.';
 $lang['DomainsTlds.!error.tld.empty'] = 'Lütfen bir TLD girin.';
+$lang['DomainsTlds.!error.feature.unsupported'] = '%1$s özelliği seçilen kayıt memuru modülü tarafından desteklenmiyor.';
 

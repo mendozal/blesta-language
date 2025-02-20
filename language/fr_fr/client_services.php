@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.fr_fr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -167,4 +167,5 @@ $lang['ClientServices.totals.subtotal'] = 'Sous-total :';
 $lang['ClientServices.totals.total'] = 'Total à payer aujourd\'hui :';
 $lang['ClientServices.totals.total_recurring'] = 'Total au moment du renouvellement :';
 $lang['ClientServices.!tooltip.total_recurring'] = 'Le prix total lors du renouvellement représente le coût total de ce service et de toutes ses options prévu lors du prochain renouvellement.';
+$lang['ClientServices.manage.button_manage_parent'] = 'Gérer le service aux parents';
 

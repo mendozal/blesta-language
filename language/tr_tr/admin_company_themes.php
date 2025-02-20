@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.!success.themes_updated'] = 'Tema başarıyla güncell
 $lang['AdminCompanyThemes.!error.import_file.theme_type_client'] = 'İçe aktarılan tema bir istemci arayüzü teması değildir.';
 $lang['AdminCompanyThemes.!error.import_file.theme_type_admin'] = 'İçe aktarılan tema bir yönetici arayüzü teması değildir.';
 $lang['AdminCompanyThemes.!error.import_file.missing'] = 'Lütfen içe aktarmak için bir tema yükleyin.';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'Özel CSS';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'Özel CSS';
 

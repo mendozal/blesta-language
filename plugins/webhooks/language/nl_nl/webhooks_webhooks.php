@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -25,4 +25,8 @@ $lang['WebhooksWebhooks.!error.callback.length'] = 'De callback mag niet langer 
 $lang['WebhooksWebhooks.!error.callback.empty'] = 'Voer een geldige callback in.';
 $lang['WebhooksWebhooks.!error.callback.exists'] = 'Er bestaat al een webhook van dit type met deze callback.';
 $lang['WebhooksWebhooks.!error.company_id.exists'] = 'Het opgegeven bedrijf bestaat niet.';
+$lang['WebhooksWebhooks.getMethods.put_json'] = 'PUT JSON';
+$lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
+$lang['WebhooksWebhooks.getMethods.put'] = 'PUT';
+$lang['WebhooksWebhooks.!error.events[].exists'] = 'De opgegeven gebeurtenis bestaat niet.';
 

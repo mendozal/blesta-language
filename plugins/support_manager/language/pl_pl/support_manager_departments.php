@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -80,4 +80,6 @@ $lang['SupportManagerDepartments.!error.email.format'] = 'Wprowadź prawidłowy 
 $lang['SupportManagerDepartments.!error.description.empty'] = 'Wprowadź opis.';
 $lang['SupportManagerDepartments.!error.name.empty'] = 'Wprowadź nazwę tego działu.';
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Nieprawidłowy identyfikator firmy.';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = 'Jeden lub więcej priorytetów jest nieprawidłowych.';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Wybierz co najmniej jeden priorytet.';
 

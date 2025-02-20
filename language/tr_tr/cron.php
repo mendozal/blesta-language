@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -43,7 +43,7 @@ $lang['Cron.applycredits.attempt'] = 'Açık faturalara kredi uygulanmaya çalı
 $lang['Cron.index.completed_all_system'] = 'Tüm sistem görevleri tamamlanmıştır.';
 $lang['Cron.index.attempt_all_system'] = 'Tüm sistem görevleri çalıştırılmaya çalışılıyor.';
 $lang['Cron.index.completed_all'] = 'Tüm görevler tamamlanmıştır.';
-$lang['Cron.index.attempt_all'] = '1$s için tüm görevler çalıştırılmaya çalışılıyor.';
 $lang['Cron.!error.task_execution.failed'] = 'Hata: %1$s %2$s';
 $lang['Cron.!error.cron.failed'] = 'Cron günlüğe kaydedilemedi.';
+$lang['Cron.index.attempt_all'] = 'Tüm görevler %1$s için çalıştırılmaya çalışılıyor.';
 

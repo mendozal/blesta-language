@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -113,4 +113,6 @@ $lang['AdminMain.!success.file_added'] = 'Plik został pomyślnie dodany.';
 $lang['AdminMain.!success.category_deleted'] = 'Kategoria została pomyślnie usunięta.';
 $lang['AdminMain.!success.category_updated'] = 'Kategoria została pomyślnie zaktualizowana.';
 $lang['AdminMain.!success.category_added'] = 'Kategoria została pomyślnie utworzona.';
+$lang['AdminMain.edit.text_full_path'] = 'UWAGA: Pliki muszą znajdować się w katalogu uploads: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'UWAGA: Pliki muszą znajdować się w katalogu uploads: <strong>%1$s</strong>.';
 

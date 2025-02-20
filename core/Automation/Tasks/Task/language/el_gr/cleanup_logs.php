@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,5 @@ $lang['Automation.task.cleanup_logs.logs_client_settings_deleted'] = '%1$s πα�
 $lang['Automation.task.cleanup_logs.logs_service_deleted'] = '%1$s παλιά αρχεία καταγραφής υπηρεσιών έχουν διαγραφεί.';
 $lang['Automation.task.cleanup_logs.logs_transaction_deleted'] = '%1$s παλιά αρχεία καταγραφής συναλλαγών έχουν διαγραφεί.';
 $lang['Automation.task.cleanup_logs.logs_cron_deleted'] = '%1$s παλιά αρχεία καταγραφής Cron έχουν διαγραφεί.';
+$lang['Automation.task.cleanup_logs.logs_service_changes_deleted'] = '%1$s τα παλιά αρχεία καταγραφής αλλαγών υπηρεσίας έχουν διαγραφεί.';
 

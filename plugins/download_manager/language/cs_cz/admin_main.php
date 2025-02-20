@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -113,4 +113,6 @@ $lang['AdminMain.!success.file_added'] = 'Soubor byl úspěšně přidán.';
 $lang['AdminMain.!success.category_deleted'] = 'Kategorie byla úspěšně odstraněna.';
 $lang['AdminMain.!success.category_updated'] = 'Kategorie byla úspěšně aktualizována.';
 $lang['AdminMain.!success.category_added'] = 'Kategorie byla úspěšně vytvořena.';
+$lang['AdminMain.edit.text_full_path'] = 'POZNÁMKA: Soubory musí být umístěny někde v adresáři uploads: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'POZNÁMKA: Soubory musí být umístěny někde v adresáři uploads: <strong>%1$s</strong>.';
 

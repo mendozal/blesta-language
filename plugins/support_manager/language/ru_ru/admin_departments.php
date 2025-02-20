@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -144,4 +144,9 @@ $lang['AdminDepartments.index.page_title'] = 'Менеджер по поддер
 $lang['AdminDepartments.!success.department_deleted'] = 'Отдел %1$s был успешно удален.';
 $lang['AdminDepartments.!success.department_updated'] = 'Отдел %1$s был успешно обновлен.';
 $lang['AdminDepartments.!success.department_created'] = 'Отдел %1$s был успешно создан.';
+$lang['AdminDepartments.edit.field_priorities'] = 'Доступные приоритеты';
+$lang['AdminDepartments.add.field_priorities'] = 'Доступные приоритеты';
+$lang['AdminDepartments.edit.field_force_import'] = 'Силовой импорт';
+$lang['AdminDepartments.add.field_force_import'] = 'Силовой импорт';
+$lang['AdminDepartments.!success.department_imported'] = 'Отдел %1$s был успешно импортирован.';
 

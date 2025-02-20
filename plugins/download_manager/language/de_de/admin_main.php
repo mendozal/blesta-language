@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -113,4 +113,6 @@ $lang['AdminMain.!success.file_added'] = 'Die Datei wurde erfolgreich hinzugefü
 $lang['AdminMain.!success.category_deleted'] = 'Die Kategorie wurde erfolgreich gelöscht.';
 $lang['AdminMain.!success.category_updated'] = 'Die Kategorie wurde erfolgreich aktualisiert.';
 $lang['AdminMain.!success.category_added'] = 'Die Kategorie wurde erfolgreich erstellt.';
+$lang['AdminMain.edit.text_full_path'] = 'HINWEIS: Die Dateien müssen sich irgendwo in Ihrem Uploads-Verzeichnis befinden: <strong>%1$s</strong>.';
+$lang['AdminMain.add.text_full_path'] = 'HINWEIS: Die Dateien müssen sich irgendwo in Ihrem Uploads-Verzeichnis befinden: <strong>%1$s</strong>.';
 

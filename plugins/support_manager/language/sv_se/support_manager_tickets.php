@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -63,4 +63,8 @@ $lang['SupportManagerTickets.!error.contact_id.exists'] = 'Den kontakt som valts
 $lang['SupportManagerTickets.!error.staff_id.exists'] = 'Ogiltigt personal-ID.';
 $lang['SupportManagerTickets.!error.department_id.exists'] = 'Vänligen välj en giltig avdelning.';
 $lang['SupportManagerTickets.!error.code.format'] = 'Biljettkoden får endast innehålla siffror.';
+$lang['SupportManagerTickets.!error.priority.valid'] = 'Vänligen välj en giltig prioritet för denna avdelning.';
+$lang['SupportManagerTickets.!error.contacts.valid'] = 'Minst en av biljettkontakterna är ogiltig.';
+$lang['SupportManagerTickets.!error.recipients.valid'] = 'Minst en av biljettmottagarna är ogiltig.';
+$lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Minst en av biljettmottagarna är dubblerad.';
 

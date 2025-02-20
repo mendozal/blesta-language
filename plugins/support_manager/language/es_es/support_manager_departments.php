@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -80,4 +80,6 @@ $lang['SupportManagerDepartments.ticket_intervals.days'] = '%1$s Días';
 $lang['SupportManagerDepartments.reminder_intervals.hour'] = '1 hora';
 $lang['SupportManagerDepartments.reminder_intervals.hours'] = '%1$s Horas';
 $lang['SupportManagerDepartments.reminder_intervals.minutes'] = '%1$s Minutos';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = 'Una o más prioridades no son válidas.';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Seleccione al menos una prioridad.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -185,4 +185,10 @@ $lang['StaffGroups.!error.name.empty'] = 'Wprowadź nazwę.';
 $lang['StaffGroups.!error.company_id.exists'] = 'Nieprawidłowy identyfikator firmy.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'Nieprawidłowy identyfikator grupy pracowników.';
 $lang['StaffGroups.permissions.admin_company_emails_deleteattachment'] = 'Usuń załącznik wiadomości e-mail';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'Usuń szablon HTML';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'Edytuj szablon HTML';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Dodaj szablon HTML';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Szablony HTML';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Usługa zaawansowanej edycji';
+$lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Kolejka usług';
 

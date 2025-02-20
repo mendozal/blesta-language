@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -80,4 +80,6 @@ $lang['SupportManagerDepartments.ticket_intervals.days'] = '%1$s Ημέρες';
 $lang['SupportManagerDepartments.reminder_intervals.hour'] = '1 ώρα';
 $lang['SupportManagerDepartments.reminder_intervals.hours'] = '%1$s Ώρες';
 $lang['SupportManagerDepartments.reminder_intervals.minutes'] = '%1$s Λεπτά';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = 'Μία ή περισσότερες προτεραιότητες είναι άκυρες.';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Επιλέξτε τουλάχιστον μία προτεραιότητα.';
 

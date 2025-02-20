@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.nl_nl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -122,4 +122,6 @@ $lang['Navigation.!error.parent_id.valid'] = 'Ongeldig ouder navigatie-item-ID';
 $lang['Navigation.!error.order.valid'] = 'De bestelindex moet een numerieke waarde zijn';
 $lang['Navigation.!error.action_id.valid'] = 'Ongeldige actie-ID';
 $lang['Navigation.getprimary.nav_tools_blacklist'] = 'Zwarte lijst';
+$lang['Navigation.getcompany.nav_html_templates'] = 'HTML sjablonen';
+$lang['Navigation.getprimary.nav_tools_provisioning'] = 'Service wachtrij';
 

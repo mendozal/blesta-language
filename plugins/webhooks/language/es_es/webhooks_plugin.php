@@ -4,11 +4,13 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
 
 $lang['WebhooksPlugin.description'] = 'Envía peticiones HTTP automatizadas basadas en eventos, y escucha peticiones HTTP para activar eventos específicos.';
 $lang['WebhooksPlugin.name'] = 'Webhooks';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_desc'] = 'Borra la caché de la lista de observadores de eventos.';
+$lang['WebhooksPlugin.getCronTasks.clear_cache_name'] = 'Borrar caché';
 

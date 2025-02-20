@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -16,4 +16,6 @@ $lang['PackageFeed.getOptionFields.example_code_name'] = 'Zeigt den Namen eines 
 $lang['PackageFeed.getOptionFields.title_row_example_code'] = 'Beispiel Code';
 $lang['PackageFeed.description'] = 'Gibt den Namen, die Beschreibung oder den Preis eines Pakets zurück.';
 $lang['PackageFeed.name'] = 'Pakete';
+$lang['PackageFeed.getOptionFields.example_code_clientlimit'] = 'Zeigt das Kundenmengenlimit für ein Paket an:';
+$lang['PackageFeed.getOptionFields.example_code_quantity'] = 'Zeigt die Bestandsmenge (Menge) eines Pakets:';
 

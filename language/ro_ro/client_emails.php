@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -18,4 +18,6 @@ $lang['ClientEmails.index.heading_subject'] = 'Subiect';
 $lang['ClientEmails.index.heading_date'] = 'Data';
 $lang['ClientEmails.index.boxtitle_emails'] = 'Istoric e-mail';
 $lang['ClientEmails.index.page_title'] = 'Client #%1$s Istoricul e-mailurilor';
+$lang['ClientEmails.index.text_html'] = 'HTML';
+$lang['ClientEmails.index.text_text'] = 'Text';
 

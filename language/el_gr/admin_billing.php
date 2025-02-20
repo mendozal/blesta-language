@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -175,4 +175,9 @@ $lang['AdminBilling.!success.services_pushed'] = 'Οι επιλεγμένες υ
 $lang['AdminBilling.!success.services_scheduled_uncancel'] = 'Οι επιλεγμένες υπηρεσίες δεν πρόκειται πλέον να ακυρωθούν.';
 $lang['AdminBilling.!success.services_scheduled_cancel'] = 'Οι επιλεγμένες υπηρεσίες προγραμματίστηκαν επιτυχώς για να ακυρωθούν.';
 $lang['AdminBilling.!success.invoices_marked_printed'] = 'Τα επιλεγμένα τιμολόγια έχουν επισημανθεί ως εκτυπωμένα.';
+$lang['AdminBilling.services.action.field_suspension_reason'] = 'Λόγος αναστολής:';
+$lang['AdminBilling.services.action.unsuspend'] = 'Μη αναστολή';
+$lang['AdminBilling.services.action.suspend'] = 'Αναστολή';
+$lang['AdminBilling.!success.services_unsuspended'] = 'Οι επιλεγμένες υπηρεσίες αναστάλθηκαν επιτυχώς.';
+$lang['AdminBilling.!success.services_suspended'] = 'Οι επιλεγμένες υπηρεσίες ανεστάλησαν επιτυχώς.';
 

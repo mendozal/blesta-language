@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ru_ru
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -305,4 +305,15 @@ $lang['AdminCompanyBilling.!success.coupon_updated'] = 'Купон был усп
 $lang['AdminCompanyBilling.!success.coupon_created'] = 'Купон был успешно создан!';
 $lang['AdminCompanyBilling.!success.notices_updated'] = 'Уведомления были успешно обновлены!';
 $lang['AdminCompanyBilling.!success.invoices_updated'] = 'Настройки счетов-фактур и начислений были успешно обновлены!';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_spacing'] = '2-ая попытка Расстояния';
+$lang['AdminCompanyBilling.invoices.field.second_attempt_threshold'] = 'Пороговое значение интервала между 2-мя попытками';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_spacing'] = 'Интервал между попытками';
+$lang['AdminCompanyBilling.invoices.field.first_attempt_threshold'] = 'Порог расстояния между попытками';
+$lang['AdminCompanyBilling.invoices.field.attempts'] = 'Попытки';
+$lang['AdminCompanyBilling.invoices.field.type'] = 'Тип';
+$lang['AdminCompanyBilling.invoices.field.service_actions'] = 'Действия службы';
+$lang['AdminCompanyBilling.invoices.field.service_provisioning_attempts'] = 'Попытки предоставления услуг';
+$lang['AdminCompanyBilling.!tooltip.second_attempt_threshold'] = 'Количество попыток выполнения сервисных действий перед задержкой следующей попытки на величину, указанную в настройке интервала между вторыми попытками';
+$lang['AdminCompanyBilling.!tooltip.first_attempt_threshold'] = 'Количество попыток выполнения сервисных действий перед задержкой следующей попытки на величину, указанную в настройке интервала между первыми попытками';
+$lang['AdminCompanyBilling.!tooltip.service_attempts'] = 'Количество попыток и неудач обработки действия службы перед тем, как это действие службы будет отключено от автоматического завершения.';
 

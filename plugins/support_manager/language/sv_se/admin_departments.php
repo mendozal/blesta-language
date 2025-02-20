@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.sv_se
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -144,4 +144,9 @@ $lang['AdminDepartments.index.page_title'] = 'Support Manager > Avdelningar';
 $lang['AdminDepartments.!success.department_deleted'] = 'Avdelningen %1$s har raderats framgångsrikt.';
 $lang['AdminDepartments.!success.department_updated'] = 'Avdelningen %1$s har uppdaterats framgångsrikt.';
 $lang['AdminDepartments.!success.department_created'] = 'Avdelningen %1$s har framgångsrikt skapats.';
+$lang['AdminDepartments.edit.field_priorities'] = 'Tillgängliga prioriteringar';
+$lang['AdminDepartments.add.field_priorities'] = 'Tillgängliga prioriteringar';
+$lang['AdminDepartments.edit.field_force_import'] = 'Force Import';
+$lang['AdminDepartments.add.field_force_import'] = 'Force Import';
+$lang['AdminDepartments.!success.department_imported'] = 'Avdelningen %1$s har importerats framgångsrikt.';
 

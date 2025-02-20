@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.!success.themes_updated'] = 'Motyw został pomyślnie 
 $lang['AdminCompanyThemes.!error.import_file.theme_type_client'] = 'Zaimportowany motyw nie jest motywem interfejsu klienta.';
 $lang['AdminCompanyThemes.!error.import_file.theme_type_admin'] = 'Zaimportowany motyw nie jest motywem interfejsu administratora.';
 $lang['AdminCompanyThemes.!error.import_file.missing'] = 'Prześlij motyw do zaimportowania.';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'Niestandardowy CSS';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'Niestandardowy CSS';
 

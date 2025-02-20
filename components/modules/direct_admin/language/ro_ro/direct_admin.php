@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -112,4 +112,6 @@ $lang['DirectAdmin.!error.password.format'] = 'Trebuie să introduceți o parol�
 $lang['DirectAdmin.!error.user_name.empty'] = 'Trebuie să introduceți un nume de utilizator.';
 $lang['DirectAdmin.!error.port.format'] = 'Portul trebuie să fie un număr.';
 $lang['DirectAdmin.name'] = 'DirectAdmin';
+$lang['DirectAdmin.row_meta.ip_address'] = 'Adresa IP';
+$lang['DirectAdmin.!error.ip_address.format'] = 'Adresa IP pare să fie invalidă.';
 

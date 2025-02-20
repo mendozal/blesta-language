@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -73,4 +73,5 @@ $lang['Contacts.!error.contact_type.inv_address_to'] = 'Faturalar bu kişiye gö
 $lang['Contacts.!error.contact_type.format'] = 'Geçersiz kişi türü.';
 $lang['Contacts.!error.user_id.exists'] = 'Geçersiz kullanıcı kimliği.';
 $lang['Contacts.!error.client_id.exists'] = 'Geçersiz istemci kimliği.';
+$lang['Contacts.!error.number.required'] = 'İletişim numarası gereklidir.';
 

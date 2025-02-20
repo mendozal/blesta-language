@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -167,4 +167,5 @@ $lang['ClientServices.!error.invoices_renew_service'] = 'Der Dienst kann erst da
 $lang['ClientServices.!error.invoices_change_term'] = 'Die Laufzeit kann erst geändert werden, wenn alle Rechnungen, die diesen Dienst beinhalten, bezahlt sind.';
 $lang['ClientServices.!error.invoices_manage_options'] = 'Die konfigurierbaren Optionen können erst dann geändert werden, wenn alle Rechnungen, die diese Leistung enthalten, bezahlt wurden.';
 $lang['ClientServices.!error.password_mismatch'] = 'Das Kennwort stimmt nicht mit Ihrem Anmeldekennwort überein.';
+$lang['ClientServices.manage.button_manage_parent'] = 'Verwalten des Elterndienstes';
 

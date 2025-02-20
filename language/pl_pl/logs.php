@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.pl_pl
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -50,4 +50,9 @@ $lang['Logs.!error.from_address.empty'] = 'Brak adresu od.';
 $lang['Logs.!error.to_address.empty'] = 'Brakujący adres.';
 $lang['Logs.!error.company_id.exists'] = 'Nieprawidłowy identyfikator firmy.';
 $lang['Logs.!error.deletelog_datetime'] = 'Nieprawidłowy format daty.';
+$lang['Logs.!error.new_service.format'] = 'Nowa usługa musi być tablicą.';
+$lang['Logs.!error.old_service.format'] = 'Stara usługa musi być tablicą.';
+$lang['Logs.!error.transactions.exists'] = 'Jedna lub więcej transakcji nie istnieje.';
+$lang['Logs.!error.transaction_id.format'] = 'Transakcje muszą być tablicą.';
+$lang['Logs.!error.service_id.exists'] = 'Nieprawidłowy identyfikator usługi.';
 

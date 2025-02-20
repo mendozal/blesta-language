@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -229,4 +229,19 @@ $lang['Namesilo.module_row_plural'] = 'Akun';
 $lang['Namesilo.module_row'] = 'Akun';
 $lang['Namesilo.description'] = 'Jual kembali domain melalui NameSilo.';
 $lang['Namesilo.name'] = 'NameSilo';
+$lang['Namesilo.!success.contact_deleted'] = 'Kontak berhasil dihapus.';
+$lang['Namesilo.tab_edit_contact.field_submit'] = 'Simpan Kontak';
+$lang['Namesilo.tab_edit_contact.field_back'] = 'Kembali';
+$lang['Namesilo.tab_add_contact.title'] = 'Tambahkan Kontak';
+$lang['Namesilo.tab_edit_contact.title'] = 'Edit Kontak';
+$lang['Namesilo.tab_manage_contacts.field_submit'] = 'Mengatur Kontak Pendaftar Default';
+$lang['Namesilo.tab_manage_contacts.field_sync'] = 'Tarik Kontak Dari Registri';
+$lang['Namesilo.tab_manage_contacts.option_delete'] = 'Menghapus';
+$lang['Namesilo.tab_manage_contacts.option_edit'] = 'Sunting';
+$lang['Namesilo.tab_manage_contacts.option_add'] = 'Tambahkan Kontak';
+$lang['Namesilo.tab_manage_contacts.heading_options'] = 'Pilihan';
+$lang['Namesilo.tab_manage_contacts.heading_name'] = 'Nama Kontak';
+$lang['Namesilo.tab_manage_contacts.title'] = 'Mengelola Kontak';
+$lang['Namesilo.tab_whois.section_technical'] = 'Teknis';
+$lang['Namesilo.tab_whois.section_administrative'] = 'Administrasi';
 

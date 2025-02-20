@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -63,4 +63,8 @@ $lang['SupportManagerTickets.!error.contact_id.exists'] = '为该票单回复选
 $lang['SupportManagerTickets.!error.staff_id.exists'] = '工作人员编号无效。';
 $lang['SupportManagerTickets.!error.department_id.exists'] = '请选择一个有效的部门。';
 $lang['SupportManagerTickets.!error.code.format'] = '机票代码必须只包含数字。';
+$lang['SupportManagerTickets.!error.priority.valid'] = '请为该部门选择一个有效的优先级。';
+$lang['SupportManagerTickets.!error.contacts.valid'] = '至少有一个机票联系人无效。';
+$lang['SupportManagerTickets.!error.recipients.valid'] = '至少有一个收票人无效。';
+$lang['SupportManagerTickets.!error.recipients.duplicated'] = '至少有一个机票收件人是重复的。';
 

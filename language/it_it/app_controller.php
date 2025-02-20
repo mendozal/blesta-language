@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -82,4 +82,5 @@ $lang['AppController.!error.invalid_csrf'] = 'Il token del modulo non è valido.
 $lang['AppController.!error.unauthorized_access'] = 'Non siete autorizzati ad accedere a quella risorsa';
 $lang['AppController.lang.dir'] = 'ltr';
 $lang['AppController.dropzone.text'] = 'Lasciare i file qui per caricarli o Fare clic per selezionare i file';
+$lang['AppController.!error.client_unauthorized_access'] = 'Non avete il permesso di accedere a quella risorsa, contattate il titolare dell\'account principale per richiedere l\'accesso.';
 

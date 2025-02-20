@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -102,7 +102,7 @@ $lang['AdminCompanyGeneral.!success.humanverification_updated'] = 'Οι ρυθμ
 $lang['AdminCompanyGeneral.!success.smartsearch_updated'] = 'Οι ρυθμίσεις της Έξυπνης αναζήτησης ενημερώθηκαν με επιτυχία.';
 $lang['AdminCompanyGeneral.!success.marketing_updated'] = 'Οι ρυθμίσεις μάρκετινγκ ενημερώθηκαν με επιτυχία.';
 $lang['AdminCompanyGeneral.!success.language_uninstalled'] = 'Η γλώσσα %1$s απεγκαταστάθηκε επιτυχώς.';
-$lang['AdminCompanyGeneral.!success.language_installed'] = 'Η γλώσσα %1$s εγκαταστάθηκε επιτυχώς.';
+$lang['AdminCompanyGeneral.!success.language_installed'] = 'Η γλώσσα %1$s εγκαταστάθηκε επιτυχώς. Θυμηθείτε να ενημερώσετε τα μηνύματα ηλεκτρονικού ταχυδρομείου, τα πακέτα και τις ομάδες πακέτων με περιεχόμενο για τη νέα γλώσσα.';
 $lang['AdminCompanyGeneral.!success.contact_type_deleted'] = 'Ο τύπος επαφής "%1$s" διαγράφηκε επιτυχώς.';
 $lang['AdminCompanyGeneral.!success.contact_type_updated'] = 'Ο τύπος επαφής "%1$s" ενημερώθηκε επιτυχώς.';
 $lang['AdminCompanyGeneral.!success.contact_type_added'] = 'Ο τύπος επαφής "%1$s" προστέθηκε επιτυχώς.';

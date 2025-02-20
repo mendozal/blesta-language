@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.tr_tr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -85,5 +85,5 @@ $lang['ClientContacts.!info.unverified_email'] = 'Bu kişiyle ilişkili e-posta 
 $lang['ClientContacts.!info.no_contacts'] = 'Şu anda hiç irtibatınız yok, ilk irtibatınızı aşağıya ekleyin.';
 $lang['ClientContacts.!success.contact_added'] = 'Kişi başarıyla oluşturuldu!';
 $lang['ClientContacts.!success.contact_updated'] = 'Kişi başarıyla güncellendi!';
-$lang['ClientContacts.!success.contact_deleted'] = '1$s %2$s kişisi başarıyla silindi!';
+$lang['ClientContacts.!success.contact_deleted'] = 'İletişim %1$s %2$s başarıyla silindi!';
 

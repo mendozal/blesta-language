@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.ro_ro
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -22,4 +22,5 @@ $lang['Automation.task.cleanup_logs.logs_module_deleted'] = '%1$s jurnalele vech
 $lang['Automation.task.cleanup_logs.logs_gateway_deleted'] = '%1$s jurnalele vechi ale Gateway au fost șterse.';
 $lang['Automation.task.cleanup_logs.completed'] = 'Sarcina de curățare a jurnalelor s-a încheiat.';
 $lang['Automation.task.cleanup_logs.attempt'] = 'Încercarea de a curăța jurnalele vechi.';
+$lang['Automation.task.cleanup_logs.logs_service_changes_deleted'] = '%1$s vechile jurnale Service Changes au fost șterse.';
 

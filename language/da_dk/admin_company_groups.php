@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.da_dk
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -59,4 +59,6 @@ $lang['AdminCompanyGroups.edit.field_delivery_methods'] = 'Metoder til levering 
 $lang['AdminCompanyGroups.edit.field_company_settings'] = 'Brug firmaindstillinger (fjern markeringen for at angive nedenfor)';
 $lang['AdminCompanyGroups.edit.field_force_email_usernames'] = 'Håndhæv e-mailadresser som brugernavne';
 $lang['AdminCompanyGroups.edit.text_editsubmit'] = 'Rediger gruppe';
+$lang['AdminCompanyGroups.edit.heading_gateway_restrictions'] = 'Tilladte gateways';
+$lang['AdminCompanyGroups.add.heading_gateway_restrictions'] = 'Tilladte gateways';
 

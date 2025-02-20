@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -25,4 +25,8 @@ $lang['WebhooksWebhooks.!error.callback.length'] = 'Η επανάκληση δε
 $lang['WebhooksWebhooks.!error.callback.empty'] = 'Παρακαλούμε εισάγετε μια έγκυρη κλήση.';
 $lang['WebhooksWebhooks.!error.callback.exists'] = 'Ένα webhook αυτού του τύπου υπάρχει ήδη με αυτό το callback.';
 $lang['WebhooksWebhooks.!error.company_id.exists'] = 'Η παρεχόμενη εταιρεία δεν υπάρχει.';
+$lang['WebhooksWebhooks.getMethods.put_json'] = 'PUT JSON';
+$lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
+$lang['WebhooksWebhooks.getMethods.put'] = 'PUT';
+$lang['WebhooksWebhooks.!error.events[].exists'] = 'Το συγκεκριμένο συμβάν δεν υπάρχει.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -42,4 +42,6 @@ $lang['AdminMain.index.health_poor'] = 'Існують серйозні проб
 $lang['AdminMain.index.health_fair'] = 'Існують деякі проблеми, які впливають на здатність системи нормально функціонувати.';
 $lang['AdminMain.index.health_good'] = 'Загалом система знаходиться в доброму стані, але є деякі моменти, які можуть потребувати вашої уваги.';
 $lang['AdminMain.index.health_excellent'] = 'Система знаходиться в доброму стані і, схоже, працює нормально.';
+$lang['AdminMain.index.upload_dir_configure'] = 'Налаштувати?';
+$lang['AdminMain.index.upload_dir'] = 'Шлях до каталогу завантаження у ваших налаштуваннях знаходиться в кореневому веб-каталозі.  Він повинен бути розміщений над кореневим веб-каталогом, щоб гарантувати, що ніколи не виникне проблем з його загальнодоступністю.';
 

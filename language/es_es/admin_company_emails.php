@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.es_es
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -186,5 +186,27 @@ $lang['AdminCompanyEmails.edittemplate.confirm_delete_attachment'] = '¿Estás s
 $lang['AdminCompanyEmails.edittemplate.heading_options'] = 'Opciones';
 $lang['AdminCompanyEmails.edittemplate.heading_file_name'] = 'Nombre del archivo';
 $lang['AdminCompanyEmails.edittemplate.heading_additional_attachments'] = 'Anexos adicionales';
-$lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Plantilla de email';
-
+$lang['AdminCompanyEmails.edittemplate.heading_email_template'] = 'Plantilla de correo electrónico';
+$lang['AdminCompanyEmails.gettemplateactions.text_none'] = 'Ninguno';
+$lang['AdminCompanyEmails.gettemplateactions.update_html_template'] = 'Actualizar plantilla HTML';
+$lang['AdminCompanyEmails.edithtmltemplate.field.addtemplatesubmit'] = 'Editar plantilla';
+$lang['AdminCompanyEmails.edithtmltemplate.field.tags'] = 'Etiquetas';
+$lang['AdminCompanyEmails.edithtmltemplate.field.name'] = 'Nombre';
+$lang['AdminCompanyEmails.edithtmltemplate.boxtitle_addhtmltemplate'] = 'Editar plantilla HTML';
+$lang['AdminCompanyEmails.addhtmltemplate.field.addtemplatesubmit'] = 'Añadir plantilla';
+$lang['AdminCompanyEmails.addhtmltemplate.field.tags'] = 'Etiquetas';
+$lang['AdminCompanyEmails.addhtmltemplate.field.name'] = 'Nombre';
+$lang['AdminCompanyEmails.addhtmltemplate.boxtitle_addhtmltemplate'] = 'Añadir plantilla HTML';
+$lang['AdminCompanyEmails.htmltemplates.no_results'] = 'No hay plantillas HTML.';
+$lang['AdminCompanyEmails.htmltemplates.confirm_delete'] = '¿Está seguro de que desea eliminar esta plantilla HTML?';
+$lang['AdminCompanyEmails.htmltemplates.option_delete'] = 'Borrar';
+$lang['AdminCompanyEmails.htmltemplates.option_edit'] = 'Editar';
+$lang['AdminCompanyEmails.htmltemplates.text_options'] = 'Opciones';
+$lang['AdminCompanyEmails.htmltemplates.text_name'] = 'Nombre de la plantilla';
+$lang['AdminCompanyEmails.htmltemplates.categorylink_addhtmltemplate'] = 'Añadir plantilla HTML';
+$lang['AdminCompanyEmails.htmltemplates.boxtitle_templates'] = 'Plantillas HTML';
+$lang['AdminCompanyEmails.edittemplate.field.email_template_group_id'] = 'Plantilla HTML';
+$lang['AdminCompanyEmails.!tooltip.email_template_group_id'] = 'Esta es la plantilla HTML que se utilizará para este correo electrónico.';
+$lang['AdminCompanyEmails.!success.deletehtmltemplate_deleted'] = 'La plantilla HTML de correo electrónico se ha eliminado correctamente.';
+$lang['AdminCompanyEmails.!success.edithtmltemplate_updated'] = 'La plantilla HTML del correo electrónico se ha actualizado correctamente.';
+$lang['AdminCompanyEmails.!success.addhtmltemplate_created'] = 'La plantilla HTML de correo electrónico se ha creado correctamente.';

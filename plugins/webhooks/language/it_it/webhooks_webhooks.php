@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -25,4 +25,8 @@ $lang['WebhooksWebhooks.!error.callback.length'] = 'Il richiamo non può superar
 $lang['WebhooksWebhooks.!error.callback.empty'] = 'Inserire un richiamo valido.';
 $lang['WebhooksWebhooks.!error.callback.exists'] = 'Esiste già un webhook di questo tipo con questo callback.';
 $lang['WebhooksWebhooks.!error.company_id.exists'] = 'L\'azienda fornita non esiste.';
+$lang['WebhooksWebhooks.getMethods.put_json'] = 'INVIO JSON';
+$lang['WebhooksWebhooks.getMethods.post_json'] = 'POST JSON';
+$lang['WebhooksWebhooks.getMethods.put'] = 'INSERIRE';
+$lang['WebhooksWebhooks.!error.events[].exists'] = 'L\'evento fornito non esiste.';
 

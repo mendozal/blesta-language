@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.el_gr
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -63,4 +63,8 @@ $lang['SupportManagerTickets.log.status'] = 'Η κατάσταση έχει αλ
 $lang['SupportManagerTickets.log.ticket_staff_id'] = 'Ανατέθηκε στο %1$s.';
 $lang['SupportManagerTickets.log.unassigned'] = 'Δεν έχει ανατεθεί';
 $lang['SupportManagerTickets.reassign_note'] = 'Αυτό το εισιτήριο ανατέθηκε εκ νέου στο %1$s. Προηγούμενες απαντήσεις πελατών εκχωρήθηκαν εκ νέου σε αυτόν τον πελάτη και ενδέχεται να έχουν γίνει από άλλο άτομο.';
+$lang['SupportManagerTickets.!error.priority.valid'] = 'Παρακαλούμε επιλέξτε μια έγκυρη προτεραιότητα για αυτό το τμήμα.';
+$lang['SupportManagerTickets.!error.contacts.valid'] = 'Τουλάχιστον μία από τις επαφές του εισιτηρίου είναι άκυρη.';
+$lang['SupportManagerTickets.!error.recipients.valid'] = 'Τουλάχιστον ένας από τους παραλήπτες του εισιτηρίου είναι άκυρος.';
+$lang['SupportManagerTickets.!error.recipients.duplicated'] = 'Τουλάχιστον ένας από τους παραλήπτες του εισιτηρίου είναι διπλός.';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -56,4 +56,7 @@ $lang['AdminMain.overview.statistic.services_active'] = 'Aktivní služby';
 $lang['AdminMain.overview.statistic.clients_active'] = 'Aktivní klienti';
 $lang['AdminMain.index.boxtitle_overview'] = 'Přehled systému';
 $lang['AdminMain.!success.options_updated'] = 'Nastavení přehledu systému bylo úspěšně aktualizováno!';
+$lang['AdminMain.date_range.day'] = '1 den';
+$lang['AdminMain.date_range.month'] = 'Aktuální měsíc';
+$lang['AdminMain.date_range.ytd'] = 'Od začátku roku';
 

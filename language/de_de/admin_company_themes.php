@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -166,4 +166,6 @@ $lang['AdminCompanyThemes.!success.themes_updated'] = 'Das Thema wurde erfolgrei
 $lang['AdminCompanyThemes.!error.import_file.theme_type_client'] = 'Das importierte Thema ist kein Thema für die Client-Schnittstelle.';
 $lang['AdminCompanyThemes.!error.import_file.theme_type_admin'] = 'Das importierte Thema ist kein Thema für die Verwaltungsoberfläche.';
 $lang['AdminCompanyThemes.!error.import_file.missing'] = 'Bitte laden Sie ein Thema zum Importieren hoch.';
+$lang['AdminCompanyThemes.edit.field_custom_css'] = 'Benutzerdefiniertes CSS';
+$lang['AdminCompanyThemes.add.field_custom_css'] = 'Benutzerdefiniertes CSS';
 

@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.id_id
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -185,4 +185,10 @@ $lang['StaffGroups.!error.name.length'] = 'Panjang nama tidak boleh melebihi 64 
 $lang['StaffGroups.!error.name.empty'] = 'Silakan masukkan nama.';
 $lang['StaffGroups.!error.company_id.exists'] = 'ID perusahaan tidak valid.';
 $lang['StaffGroups.!error.staff_group_id.exists'] = 'ID grup staf tidak valid.';
+$lang['StaffGroups.permissions.admin_company_emails_deletehtmltemplate'] = 'Menghapus Templat HTML';
+$lang['StaffGroups.permissions.admin_company_emails_edithtmltemplate'] = 'Edit Template HTML';
+$lang['StaffGroups.permissions.admin_company_emails_addhtmltemplate'] = 'Tambahkan Template HTML';
+$lang['StaffGroups.permissions.admin_company_emails_htmltemplates'] = 'Templat HTML';
+$lang['StaffGroups.permissions.admin_clients_editserviceadvanced'] = 'Layanan Edit Tingkat Lanjut';
+$lang['StaffGroups.permissions.admin_tools_provisioning'] = 'Antrian Layanan';
 

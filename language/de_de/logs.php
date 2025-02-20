@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.de_de
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -50,4 +50,9 @@ $lang['Logs.!error.from_address.empty'] = 'Es fehlt eine Absenderadresse.';
 $lang['Logs.!error.to_address.empty'] = 'Es fehlt ein zu adressieren.';
 $lang['Logs.!error.company_id.exists'] = 'Ungültige Unternehmens-ID.';
 $lang['Logs.!error.deletelog_datetime'] = 'Ungültiges Datumsformat.';
+$lang['Logs.!error.new_service.format'] = 'Der neue Dienst muss ein Array sein.';
+$lang['Logs.!error.old_service.format'] = 'Der alte Dienst muss ein Array sein.';
+$lang['Logs.!error.transactions.exists'] = 'Eine oder mehrere Transaktionen sind nicht vorhanden.';
+$lang['Logs.!error.transaction_id.format'] = 'Transaktionen müssen ein Array sein.';
+$lang['Logs.!error.service_id.exists'] = 'Ungültige Dienst-ID.';
 

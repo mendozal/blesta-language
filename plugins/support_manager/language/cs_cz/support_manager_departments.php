@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.cs_cz
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -80,4 +80,6 @@ $lang['SupportManagerDepartments.!error.email.format'] = 'Zadejte prosím platno
 $lang['SupportManagerDepartments.!error.description.empty'] = 'Zadejte prosím popis.';
 $lang['SupportManagerDepartments.!error.name.empty'] = 'Zadejte prosím název tohoto oddělení.';
 $lang['SupportManagerDepartments.!error.company_id.exists'] = 'Neplatné ID společnosti.';
+$lang['SupportManagerDepartments.!error.priorities[].format'] = 'Jedna nebo více priorit jsou neplatné.';
+$lang['SupportManagerDepartments.!error.priorities[].empty'] = 'Vyberte alespoň jednu prioritu.';
 

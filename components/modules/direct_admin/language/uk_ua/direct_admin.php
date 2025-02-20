@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.uk_ua
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -112,4 +112,6 @@ $lang['DirectAdmin.!error.port.format'] = 'Порт повинен бути чи
 $lang['DirectAdmin.!error.host_name.format'] = 'Ім\'я хоста видається недійсним.';
 $lang['DirectAdmin.!error.server_name.empty'] = 'Ви повинні ввести мітку сервера.';
 $lang['DirectAdmin.name'] = 'DirectAdmin';
+$lang['DirectAdmin.row_meta.ip_address'] = 'IP-адреса';
+$lang['DirectAdmin.!error.ip_address.format'] = 'Здається, IP-адреса є недійсною.';
 

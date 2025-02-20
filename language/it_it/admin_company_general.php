@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.it_it
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -102,7 +102,7 @@ $lang['AdminCompanyGeneral.!success.humanverification_updated'] = 'Le impostazio
 $lang['AdminCompanyGeneral.!success.smartsearch_updated'] = 'Le impostazioni di Smart Search sono state aggiornate con successo.';
 $lang['AdminCompanyGeneral.!success.marketing_updated'] = 'Le impostazioni di marketing sono state aggiornate con successo.';
 $lang['AdminCompanyGeneral.!success.language_uninstalled'] = 'La lingua %1$s è stata disinstallata con successo.';
-$lang['AdminCompanyGeneral.!success.language_installed'] = 'La lingua %1$s è stata installata con successo.';
+$lang['AdminCompanyGeneral.!success.language_installed'] = 'La lingua %1$s è stata installata con successo. Ricordarsi di aggiornare le e-mail, i pacchetti e i gruppi di pacchetti con il contenuto della nuova lingua.';
 $lang['AdminCompanyGeneral.!success.contact_type_deleted'] = 'Il tipo di contatto "%1$s" è stato eliminato con successo.';
 $lang['AdminCompanyGeneral.!success.contact_type_updated'] = 'Il tipo di contatto "%1$s" è stato aggiornato con successo.';
 $lang['AdminCompanyGeneral.!success.contact_type_added'] = 'Il tipo di contatto "%1$s" è stato aggiunto con successo.';

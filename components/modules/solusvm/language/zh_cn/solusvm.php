@@ -4,7 +4,7 @@
  *
  * @package blesta
  * @subpackage blesta.language.zh_cn
- * @copyright Copyright (c) 2024, Phillips Data, Inc.
+ * @copyright Copyright (c) 2025, Phillips Data, Inc.
  * @license http://www.blesta.com/license/ The Blesta License Agreement
  * @link http://www.blesta.com/ Blesta
  */
@@ -149,7 +149,7 @@ $lang['Solusvm.module_row_plural'] = '服务器';
 $lang['Solusvm.module_row'] = 'SolusVM 主服务器';
 $lang['Solusvm.description'] = 'Solus Virtual Manager (SolusVM) 是一款功能强大的基于图形用户界面的 VPS 管理系统，完全支持 OpenVZ、Linux KVM、Xen Paravirtualization 和 Xen HVM。';
 $lang['Solusvm.!actions.boot'] = '靴子';
-$lang['Solusvm.!percent.used'] = '%1$s%';
+$lang['Solusvm.!percent.used'] = '%1$s';
 $lang['Solusvm.!bytes.value'] = '%1$s%2$s';
 $lang['Solusvm.please_select'] = '-- 请选择';
 $lang['Solusvm.!success.reinstall'] = '服务器正在重新安装。';
