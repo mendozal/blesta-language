@@ -86,5 +86,5 @@ $lang['AdminCompanyMessengers.edittemplate.text_none'] = 'Ninguno';
 $lang['AdminCompanyMessengers.edittemplate.field.tags'] = 'Etiquetas disponibles';
 $lang['AdminCompanyMessengers.edittemplate.field.status'] = 'Activado';
 $lang['AdminCompanyMessengers.edittemplate.field.cancel'] = 'Cancelar';
-$lang['AdminCompanyMessengers.edittemplate.field.edittemplatesubmit'] = 'Plantilla de actualización';
+$lang['AdminCompanyMessengers.edittemplate.field.edittemplatesubmit'] = 'Actualizar plantilla';
 
