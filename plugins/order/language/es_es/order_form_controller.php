@@ -9,5 +9,5 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['OrderFormController.!notice.items_removed'] = 'Algunos artículos han sido eliminados de su cesta debido a restricciones de embalaje.';
+$lang['OrderFormController.!notice.items_removed'] = 'Algunos artículos han sido eliminados del carrito debido a restricciones de embalaje.';
 

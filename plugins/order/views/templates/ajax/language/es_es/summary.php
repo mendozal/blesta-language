@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Summary.index.have_coupon'] = 'Utilizar un código de cupón';
+$lang['Summary.index.have_coupon'] = 'Utilizar un cupón';
 $lang['Summary.index.coupon'] = 'Cupón';
 $lang['Summary.index.coupon_btn'] = 'Canjear';
 $lang['Summary.index.heading_summary'] = 'Resumen del pedido';

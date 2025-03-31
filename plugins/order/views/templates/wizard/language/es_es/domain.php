@@ -10,15 +10,15 @@
  */
 
 $lang['Domain.lookup.title'] = 'Comprobar disponibilidad de dominios';
-$lang['Domain.lookup.description'] = 'Empiece por buscar un dominio, o sáltese este paso haciendo clic en "Pedir otros artículos".';
+$lang['Domain.lookup.description'] = 'Empiece por buscar un dominio, o sáltese este paso haciendo clic en "Pedir otros productos".';
 $lang['Domain.lookup.domain_placeholder'] = 'tudominio.com';
 $lang['Domain.lookup.show_all'] = 'Mostrar todo';
 $lang['Domain.lookup.hide_all'] = 'Ocultar todo';
 $lang['Domain.lookup.loading'] = 'Cargando...';
 $lang['Domain.lookup.transfer_btn'] = 'Transferir';
 $lang['Domain.lookup.lookup_btn'] = 'Comprobar disponibilidad';
-$lang['Domain.lookup.other_btn'] = 'Saltar, pedir otros artículos';
-$lang['Domain.lookup.domains_header_available'] = 'Enhorabuena, ese dominio está disponible.';
+$lang['Domain.lookup.other_btn'] = 'Saltar, pedir otros productos';
+$lang['Domain.lookup.domains_header_available'] = '¡Este dominio está disponible!';
 $lang['Domain.lookup.domains_header_unavailable'] = 'Lo sentimos, ese dominio no está disponible.';
 $lang['Domain.lookup.domains_header_free'] = 'El dominio puede ser gratuito cuando se combina con un paquete de cualquiera de los siguientes grupos de paquetes por un mínimo de %1$s: %2$s.';
 $lang['Domain.lookup.domains_domain_name'] = 'Nombre de dominio';
@@ -39,7 +39,7 @@ $lang['Domain.lookup.term_month'] = '%1$s Mes';
 $lang['Domain.lookup.term_months'] = '%1$s Meses';
 $lang['Domain.lookup.term_year'] = '%1$s Año';
 $lang['Domain.lookup.term_years'] = '%1$s Años';
-$lang['Domain.lookup.order_btn'] = 'Pedido seleccionado';
+$lang['Domain.lookup.order_btn'] = 'Comprar selección';
 $lang['Domain.lookup.term'] = '%1$s %2$s @ %3$s';
 $lang['Domain.lookup.term_recurring'] = '%1$s %2$s @ %3$s (renueva @ %4$s)';
 $lang['Domain.lookup.term_onetime'] = '%1$s @ %2$s';

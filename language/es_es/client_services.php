@@ -164,8 +164,8 @@ $lang['ClientServices.review.none'] = '-';
 $lang['ClientServices.review.cancel'] = 'Cancelar';
 $lang['ClientServices.review.update'] = 'Guardar';
 $lang['ClientServices.totals.subtotal'] = 'Subtotal:';
-$lang['ClientServices.totals.total'] = 'Total a pagar hoy:';
-$lang['ClientServices.totals.total_recurring'] = 'Total al renovar:';
+$lang['ClientServices.totals.total'] = 'A pagar hoy:';
+$lang['ClientServices.totals.total_recurring'] = 'Renovación:';
 $lang['ClientServices.!tooltip.total_recurring'] = 'El precio total al renovar representa el coste total de este servicio y todas sus opciones previstas en la próxima renovación.';
 $lang['ClientServices.manage.button_manage_parent'] = 'Gestionar el Servicio de Padres';
 

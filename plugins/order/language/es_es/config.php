@@ -11,7 +11,7 @@
 
 $lang['Config.!error.invalid_pricing_id'] = 'No se ha encontrado el paquete indicado.';
 $lang['Config.!error.invalid_module'] = 'El paquete no está disponible actualmente.';
-$lang['Config.!error.domain_duplicated'] = 'El dominio "%1$s" ya está en su cesta.';
+$lang['Config.!error.domain_duplicated'] = 'El dominio "%1$s" ya está en el carrito.';
 $lang['Config.!error.invalid_domain_term'] = 'El término seleccionado para el dominio "%1$s" no es válido.';
 $lang['Config.index.package_price'] = '%1$s @ %2$s';
 $lang['Config.index.package_price_recurring'] = '%1$s @ %2$s (renueva @ %3$s)';
