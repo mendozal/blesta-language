@@ -135,9 +135,9 @@ $lang['AdminForms.settings.field_marketing_default.true'] = 'La opción de recib
 $lang['AdminForms.settings.field_marketing_default.false'] = 'El cliente debe seleccionar la opción de recibir marketing por email';
 $lang['AdminForms.settings.tooltip_marketing_default_true'] = 'Esta opción se mostrará en la página de registro del cliente, seleccionada para optar por el marketing por email.';
 $lang['AdminForms.settings.tooltip_marketing_default_false'] = 'Esta opción se mostrará en la página de registro de clientes, deseleccionada para excluirlos del marketing por email.';
-$lang['AdminForms.settings.registration_heading'] = 'Nuevas anulaciones de registro';
+$lang['AdminForms.settings.registration_heading'] = 'Opciones especiales para nuevos registros';
 $lang['AdminForms.settings.text_accepted_payment_types'] = 'Cuando alguien se registra en una nueva cuenta de cliente, sólo los tipos de pago seleccionados estarán disponibles para su procesamiento a través de pasarelas o para crear cuentas de pago.';
 $lang['AdminForms.settings.payments_allowed_cc'] = 'Tarjeta de crédito';
-$lang['AdminForms.settings.payments_allowed_ach'] = 'Cámara de compensación automatizada';
+$lang['AdminForms.settings.payments_allowed_ach'] = 'Automatic Clearing House (ACH)';
 $lang['AdminForms.settings.field_save'] = 'Guardar ajustes';
 
