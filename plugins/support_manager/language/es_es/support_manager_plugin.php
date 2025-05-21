@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['SupportManagerPlugin.name'] = 'Responsable de apoyo';
+$lang['SupportManagerPlugin.name'] = 'Gestor de soporte';
 $lang['SupportManagerPlugin.description'] = 'Permite a los usuarios y al personal abrir y gestionar tickets de soporte.';
 $lang['SupportManagerPlugin.cron.poll_tickets_name'] = 'Descargar tickets';
 $lang['SupportManagerPlugin.cron.poll_tickets_desc'] = 'Se conecta al servidor POP3/IMAP para descargar correos electrónicos y convertirlos en tickets.';
