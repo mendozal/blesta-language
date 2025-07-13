@@ -16,7 +16,7 @@ $lang['Summary.index.heading_summary'] = 'Resumen del pedido';
 $lang['Summary.index.summary_note'] = 'Los impuestos aplicables se calcularán después de que se registre o inicie sesión.';
 $lang['Summary.index.table_description'] = 'Descripción';
 $lang['Summary.index.table_price'] = 'Precio';
-$lang['Summary.index.empty_cart'] = 'Carrito vacío';
+$lang['Summary.index.empty_cart'] = 'Vaciar carrito';
 $lang['Summary.index.heading_paymethods'] = 'Forma de pago';
 $lang['Summary.index.paymethods_note'] = 'Seleccione la forma de pago que desee.';
 
