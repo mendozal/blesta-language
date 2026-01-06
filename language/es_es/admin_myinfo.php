@@ -38,5 +38,6 @@ $lang['AdminMyinfo.notices.heading_subscription_notices'] = 'Avisos de suscripci
 $lang['AdminMyinfo.notices.field_noticesubmit'] = 'Avisos de actualización';
 $lang['AdminMyinfo.notices.no_bcc_results'] = 'No hay notificaciones CCO por email disponibles para su grupo de personal.';
 $lang['AdminMyinfo.notices.no_subscription_results'] = 'No hay avisos de suscripción disponibles para su grupo de personal.';
-$lang['AdminMyinfo.index.field_recovery_email'] = 'Email de recuperación (opcional)';
+$lang['AdminMyinfo.index.field_recovery_email'] = 'Correo electrónico de recuperación (opcional)';
+$lang['AdminMyinfo.index.field_avatar'] = 'Foto de perfil';
 

@@ -25,4 +25,6 @@ $lang['AdminCompanyEmails.templates.SupportManager.ticket_reminder_name'] = 'Rec
 $lang['AdminCompanyEmails.templates.SupportManager.ticket_reminder_desc'] = 'Aviso enviado cuando un ticket no ha recibido respuesta durante un periodo de tiempo.';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_reminder_name'] = 'Recordatorio de tickets para el personal';
 $lang['AdminCompanyEmails.templates.SupportManager.staff_ticket_reminder_desc'] = 'Aviso enviado cuando un ticket no ha recibido respuesta durante un periodo de tiempo.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_desc'] = 'Aviso enviado al cliente pidiéndole que valore su experiencia con el ticket de soporte.';
+$lang['AdminCompanyEmails.templates.SupportManager.ticket_feedback_name'] = 'Ticket Feedback Request';
 

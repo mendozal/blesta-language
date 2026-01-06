@@ -82,8 +82,9 @@ $lang['ClientContacts.phone_numbers.field_phoneoptions'] = 'Opciones';
 $lang['ClientContacts.phone_numbers.text_remove'] = 'Eliminar';
 $lang['ClientContacts.navigation.nav_contacts'] = 'Contactos';
 $lang['ClientContacts.navigation.nav_contacts_add'] = 'Añadir contacto';
-$lang['ClientContacts.navigation.nav_return'] = 'Volver al tablero';
-$lang['ClientContacts.add.field_recovery_email'] = 'Email de recuperación (opcional)';
-$lang['ClientContacts.edit.field_recovery_email'] = 'Email de recuperación (opcional)';
-$lang['ClientContacts.tooltip.client_quotations'] = 'Mostrar presupuestos en el tablero y permitir su aprobación o denegación.';
+$lang['ClientContacts.navigation.nav_return'] = 'Volver al panel de control';
+$lang['ClientContacts.add.field_recovery_email'] = 'Correo electrónico de recuperación (opcional)';
+$lang['ClientContacts.edit.field_recovery_email'] = 'Correo electrónico de recuperación (opcional)';
+$lang['ClientContacts.tooltip.client_quotations'] = 'Mostrar presupuestos en el panel de control y permitir su aprobación o denegación.';
+$lang['ClientContacts.contact_info.field_avatar'] = 'Foto de perfil';
 
