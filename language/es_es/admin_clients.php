@@ -928,6 +928,6 @@ $lang['AdminClients.editservice.field_invoice_method_create'] = 'Crear factura';
 $lang['AdminClients.editservice.field_invoice_method'] = 'Método de facturación';
 $lang['AdminClients.editservice.text_uncancel'] = 'Está a punto de reactivar un servicio cancelado. Si la opción "Usar módulo" está desmarcada, el servicio se reactivará únicamente en Blesta. Tenga en cuenta que la reactivación a través del módulo puede ser problemática y puede que no sea soportada por todos los módulos. La reactivación de un servicio cancelado no deshace la acción de cancelación realizada a través de la API del módulo.';
 $lang['AdminClients.editservice.text_date_paid_through'] = 'Fecha de pago:';
-$lang['AdminClients.invoices.option_copy'] = 'Copia';
+$lang['AdminClients.invoices.option_copy'] = 'Copiar';
 $lang['AdminClients.!tooltip.text_date_paid_through'] = 'Fecha de pago: %1$s';
 

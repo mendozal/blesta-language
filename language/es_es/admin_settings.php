@@ -61,6 +61,6 @@ $lang['AdminSettings.system.heading_staff'] = 'Personal';
 $lang['AdminSettings.system.text_staff'] = 'Crear o modificar cuentas y permisos de Personal. El personal tiene acceso al área de administración de Blesta.';
 $lang['AdminSettings.system.heading_upgrade'] = 'Opciones de actualización';
 $lang['AdminSettings.system.text_upgrade'] = 'Ver información sobre actualizaciones y descargas.';
-$lang['AdminSettings.system.heading_help'] = 'Ayuda';
+$lang['AdminSettings.system.heading_help'] = 'Soporte';
 $lang['AdminSettings.system.text_help'] = 'Consulta los recursos de ayuda para tu instalación de Blesta.';
 

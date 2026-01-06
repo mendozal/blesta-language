@@ -10,14 +10,14 @@
  */
 
 $lang['Domain.lookup.title'] = 'Comprobar disponibilidad de dominios';
-$lang['Domain.lookup.description'] = 'Empiece por buscar un dominio, o sáltese este paso haciendo clic en "Pedir otros productos".';
+$lang['Domain.lookup.description'] = 'Empiece por buscar un dominio, o sáltese este paso haciendo clic en "Ya tengo un dominio propio...".';
 $lang['Domain.lookup.domain_placeholder'] = 'tudominio.com';
 $lang['Domain.lookup.show_all'] = 'Mostrar todo';
 $lang['Domain.lookup.hide_all'] = 'Ocultar todo';
 $lang['Domain.lookup.loading'] = 'Cargando...';
 $lang['Domain.lookup.transfer_btn'] = 'Transferir';
 $lang['Domain.lookup.lookup_btn'] = 'Comprobar disponibilidad';
-$lang['Domain.lookup.other_btn'] = 'Saltar, pedir otros productos';
+$lang['Domain.lookup.other_btn'] = 'Ya tengo un dominio propio...';
 $lang['Domain.lookup.domains_header_available'] = '¡Este dominio está disponible!';
 $lang['Domain.lookup.domains_header_unavailable'] = 'Lo sentimos, ese dominio no está disponible.';
 $lang['Domain.lookup.domains_header_free'] = 'El dominio puede ser gratuito cuando se combina con un paquete de cualquiera de los siguientes grupos de paquetes por un mínimo de %1$s: %2$s.';
@@ -29,8 +29,8 @@ $lang['Domain.lookup.domain_unavailable'] = 'No disponible';
 $lang['Domain.lookup.domain_eligible_free'] = 'Elegible para %1$s Gratis';
 $lang['Domain.lookup.heading_tld'] = 'TLD';
 $lang['Domain.lookup.heading_price'] = 'Precio';
-$lang['Domain.lookup.heading_transfer_price'] = 'Precio de transferencia';
-$lang['Domain.lookup.heading_renew_price'] = 'Renovar precio';
+$lang['Domain.lookup.heading_transfer_price'] = 'Transferencia';
+$lang['Domain.lookup.heading_renew_price'] = 'Renovación';
 $lang['Domain.lookup.term_day'] = '%1$s Día';
 $lang['Domain.lookup.term_days'] = '%1$s Días';
 $lang['Domain.lookup.term_week'] = '%1$s Semana';
